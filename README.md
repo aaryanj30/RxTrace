@@ -1,10 +1,10 @@
 # 💊 RxTrace — Prescription Flow Intelligence Tool
 
+![Domain](https://img.shields.io/badge/Domain-Pharma%20Sales%20Analytics-0C6B3C?style=flat-square)
+![Type](https://img.shields.io/badge/Type-Geospatial%20Intelligence-8A2BE2?style=flat-square)
 ![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 ![Pandas](https://img.shields.io/badge/Pandas-Data-150458?style=flat-square&logo=pandas&logoColor=white)
-![Domain](https://img.shields.io/badge/Domain-Pharma%20Sales%20Analytics-0C6B3C?style=flat-square)
-![Type](https://img.shields.io/badge/Type-Geospatial%20Intelligence-8A2BE2?style=flat-square)
 
 # Maps chemist-level sales data back to probable prescribing doctors, giving pharma field sales teams actionable doctor-level prescription intelligence without needing direct prescription data.
 
