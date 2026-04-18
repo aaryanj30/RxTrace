@@ -1,0 +1,6 @@
+distributor_id,name,territory,pincodes_covered
+DIST001,Hamilton PLC,South,"400002,400009,400006,400001"
+DIST002,"Hernandez, Edwards and Ramirez",North,"400007,400008,400001,400006"
+DIST003,Miller LLC,West,"400006,400005,400001,400003"
+DIST004,Harris-Robles,North,"400006,400004,400002,400007"
+DIST005,"Jones, Peterson and Mejia",East,"400003,400001,400006,400005"

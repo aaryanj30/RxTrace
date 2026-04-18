@@ -1,0 +1,1127 @@
+[
+  {
+    "id": "ACT-3657B22D",
+    "timestamp": "2026-04-17 14:18:37",
+    "source_role": "Doctor",
+    "source_id": "DOC002",
+    "action_type": "Sample Requisition",
+    "details": {
+      "compound": "MOL02",
+      "qty": 500,
+      "instructions": "Need these samples by 23rd April 2026"
+    },
+    "status": "Completed",
+    "assigned_to": "REP001",
+    "completed_at": "2026-04-17 14:21:07",
+    "total_requested": 500,
+    "delivered_qty": 0,
+    "acknowledged": false,
+    "confirmed_received": 0,
+    "in_transit_qty": 0
+  },
+  {
+    "id": "ACT-4BDBA929",
+    "timestamp": "2026-04-17 15:11:15",
+    "source_role": "Doctor",
+    "source_id": "DOC002",
+    "action_type": "Sample Requisition",
+    "details": {
+      "compound": "MOL01",
+      "qty": 50,
+      "instructions": ""
+    },
+    "total_requested": 50,
+    "delivered_qty": 50,
+    "status": "Delivered (Awaiting Receipt)",
+    "assigned_to": "REP001",
+    "completed_at": null,
+    "acknowledged": true,
+    "confirmed_received": 50,
+    "in_transit_qty": 0,
+    "admin_note": "STRATEGIC UPDATE: Competitor Neutralization: Position Aetheris as the bedrock of reliability during the current Madrigal Pharma NASH disruption."
+  },
+  {
+    "id": "ACT-DE442924",
+    "timestamp": "2026-04-17 21:51:52",
+    "source_role": "Doctor",
+    "source_id": "DOC002",
+    "action_type": "Priority Dispatch",
+    "details": {
+      "urgent": true
+    },
+    "total_requested": 0,
+    "delivered_qty": 0,
+    "status": "Completed",
+    "assigned_to": "REP001",
+    "completed_at": "2026-04-17 21:55:10",
+    "acknowledged": false,
+    "confirmed_received": 0,
+    "in_transit_qty": 0
+  },
+  {
+    "id": "ACT-3B0A1577",
+    "timestamp": "2026-04-17 21:52:27",
+    "source_role": "Doctor",
+    "source_id": "DOC002",
+    "action_type": "Sample Requisition",
+    "details": {
+      "compound": "MOL02",
+      "qty": 25,
+      "instructions": "Need this by end of april 2026"
+    },
+    "total_requested": 25,
+    "delivered_qty": 25,
+    "status": "Delivered (Awaiting Receipt)",
+    "assigned_to": "REP001",
+    "completed_at": null,
+    "acknowledged": true,
+    "admin_note": "STRATEGIC UPDATE: Competitor Neutralization: Position Aetheris as the bedrock of reliability during the current Madrigal Pharma NASH disruption.",
+    "doctor_note": null,
+    "confirmed_received": 25,
+    "in_transit_qty": 0
+  },
+  {
+    "id": "ACT-0F080B89",
+    "timestamp": "2026-04-17 22:03:31",
+    "source_role": "Sales Rep",
+    "source_id": "REP001",
+    "action_type": "Fast Log Visit",
+    "details": {
+      "doctor": "Dr. Pooja Desai"
+    },
+    "total_requested": 0,
+    "delivered_qty": 0,
+    "status": "Pending",
+    "assigned_to": null,
+    "completed_at": null,
+    "acknowledged": false,
+    "confirmed_received": 0,
+    "in_transit_qty": 0
+  },
+  {
+    "id": "ACT-AA3B1147",
+    "timestamp": "2026-04-18 10:41:42",
+    "source_role": "Doctor",
+    "source_id": "DOC002",
+    "action_type": "Sample Requisition",
+    "details": {
+      "compound": "MOL02",
+      "qty": 500,
+      "instructions": "URGENT NEED BY END OF APRIL"
+    },
+    "total_requested": 500,
+    "delivered_qty": 500,
+    "status": "Delivered (Awaiting Receipt)",
+    "assigned_to": "REP001",
+    "completed_at": null,
+    "acknowledged": true,
+    "admin_note": "STRATEGIC UPDATE: Competitor Neutralization: Position Aetheris as the bedrock of reliability during the current Madrigal Pharma NASH disruption.",
+    "doctor_note": null,
+    "confirmed_received": 500,
+    "in_transit_qty": 0
+  },
+  {
+    "id": "ACT-87EA1E71",
+    "timestamp": "2026-04-18 10:50:32",
+    "source_role": "Doctor",
+    "source_id": "DOC002",
+    "action_type": "Sample Requisition",
+    "details": {
+      "compound": "MOL03",
+      "qty": 50,
+      "instructions": ""
+    },
+    "total_requested": 50,
+    "delivered_qty": 50,
+    "status": "Delivered (Awaiting Receipt)",
+    "assigned_to": "REP001",
+    "completed_at": null,
+    "acknowledged": true,
+    "last_batch_qty": 50,
+    "admin_note": "STRATEGIC UPDATE: Competitor Neutralization: Position Aetheris as the bedrock of reliability during the current Madrigal Pharma NASH disruption.",
+    "doctor_note": null,
+    "confirmed_received": 50,
+    "in_transit_qty": 0
+  },
+  {
+    "id": "ACT-98464155",
+    "timestamp": "2026-04-18 11:01:20",
+    "source_role": "Doctor",
+    "source_id": "DOC002",
+    "action_type": "Sample Requisition",
+    "details": {
+      "compound": "MOL01",
+      "qty": 50,
+      "instructions": ""
+    },
+    "total_requested": 50,
+    "delivered_qty": 50,
+    "status": "Delivered (Awaiting Receipt)",
+    "assigned_to": "REP001",
+    "completed_at": null,
+    "acknowledged": true,
+    "last_batch_qty": 17,
+    "admin_note": "STRATEGIC UPDATE: Competitor Neutralization: Position Aetheris as the bedrock of reliability during the current Madrigal Pharma NASH disruption.",
+    "doctor_note": null,
+    "confirmed_received": 50,
+    "in_transit_qty": 0
+  },
+  {
+    "id": "ACT-CC44552D",
+    "timestamp": "2026-04-18 13:08:51",
+    "source_role": "Admin",
+    "source_id": "HQ",
+    "action_type": "Strategic Directive",
+    "details": {
+      "plan_of_action": "Surgical Market Capture: Launch a strike on the 'MOL05' segment by identifying high-volume accounts with low alignment.",
+      "instructions": "Transparent HQ Directive: Implement this marketing strategy immediately in your territory accounts."
+    },
+    "total_requested": 0,
+    "confirmed_received": 0,
+    "in_transit_qty": 0,
+    "status": "Pending",
+    "assigned_to": null,
+    "completed_at": null,
+    "acknowledged": false
+  },
+  {
+    "id": "ACT-0CA75442",
+    "timestamp": "2026-04-18 13:08:51",
+    "source_role": "Admin",
+    "source_id": "HQ",
+    "action_type": "Strategic Directive",
+    "details": {
+      "plan_of_action": "Surgical Market Capture: Launch a strike on the 'MOL05' segment by identifying high-volume accounts with low alignment.",
+      "instructions": "Transparent HQ Directive: Implement this marketing strategy immediately in your territory accounts."
+    },
+    "total_requested": 0,
+    "confirmed_received": 0,
+    "in_transit_qty": 0,
+    "status": "Pending",
+    "assigned_to": null,
+    "completed_at": null,
+    "acknowledged": false
+  },
+  {
+    "id": "ACT-7E99B9FB",
+    "timestamp": "2026-04-18 13:08:51",
+    "source_role": "Admin",
+    "source_id": "HQ",
+    "action_type": "Strategic Directive",
+    "details": {
+      "plan_of_action": "Surgical Market Capture: Launch a strike on the 'MOL05' segment by identifying high-volume accounts with low alignment.",
+      "instructions": "Transparent HQ Directive: Implement this marketing strategy immediately in your territory accounts."
+    },
+    "total_requested": 0,
+    "confirmed_received": 0,
+    "in_transit_qty": 0,
+    "status": "Pending",
+    "assigned_to": null,
+    "completed_at": null,
+    "acknowledged": false
+  },
+  {
+    "id": "ACT-5D00F7ED",
+    "timestamp": "2026-04-18 13:08:51",
+    "source_role": "Admin",
+    "source_id": "HQ",
+    "action_type": "Strategic Directive",
+    "details": {
+      "plan_of_action": "Surgical Market Capture: Launch a strike on the 'MOL05' segment by identifying high-volume accounts with low alignment.",
+      "instructions": "Transparent HQ Directive: Implement this marketing strategy immediately in your territory accounts."
+    },
+    "total_requested": 0,
+    "confirmed_received": 0,
+    "in_transit_qty": 0,
+    "status": "Pending",
+    "assigned_to": null,
+    "completed_at": null,
+    "acknowledged": false
+  },
+  {
+    "id": "ACT-3F1F1027",
+    "timestamp": "2026-04-18 13:08:51",
+    "source_role": "Admin",
+    "source_id": "HQ",
+    "action_type": "Strategic Directive",
+    "details": {
+      "plan_of_action": "Surgical Market Capture: Launch a strike on the 'MOL05' segment by identifying high-volume accounts with low alignment.",
+      "instructions": "Transparent HQ Directive: Implement this marketing strategy immediately in your territory accounts."
+    },
+    "total_requested": 0,
+    "confirmed_received": 0,
+    "in_transit_qty": 0,
+    "status": "Pending",
+    "assigned_to": null,
+    "completed_at": null,
+    "acknowledged": false
+  },
+  {
+    "id": "ACT-D908C3D8",
+    "timestamp": "2026-04-18 13:08:51",
+    "source_role": "Admin",
+    "source_id": "HQ",
+    "action_type": "Strategic Directive",
+    "details": {
+      "plan_of_action": "Surgical Market Capture: Launch a strike on the 'MOL05' segment by identifying high-volume accounts with low alignment.",
+      "instructions": "Transparent HQ Directive: Implement this marketing strategy immediately in your territory accounts."
+    },
+    "total_requested": 0,
+    "confirmed_received": 0,
+    "in_transit_qty": 0,
+    "status": "Pending",
+    "assigned_to": null,
+    "completed_at": null,
+    "acknowledged": false
+  },
+  {
+    "id": "ACT-DED1269F",
+    "timestamp": "2026-04-18 13:08:51",
+    "source_role": "Admin",
+    "source_id": "HQ",
+    "action_type": "Strategic Directive",
+    "details": {
+      "plan_of_action": "Surgical Market Capture: Launch a strike on the 'MOL05' segment by identifying high-volume accounts with low alignment.",
+      "instructions": "Transparent HQ Directive: Implement this marketing strategy immediately in your territory accounts."
+    },
+    "total_requested": 0,
+    "confirmed_received": 0,
+    "in_transit_qty": 0,
+    "status": "Pending",
+    "assigned_to": null,
+    "completed_at": null,
+    "acknowledged": false
+  },
+  {
+    "id": "ACT-E9211BCE",
+    "timestamp": "2026-04-18 13:08:51",
+    "source_role": "Admin",
+    "source_id": "HQ",
+    "action_type": "Strategic Directive",
+    "details": {
+      "plan_of_action": "Surgical Market Capture: Launch a strike on the 'MOL05' segment by identifying high-volume accounts with low alignment.",
+      "instructions": "Transparent HQ Directive: Implement this marketing strategy immediately in your territory accounts."
+    },
+    "total_requested": 0,
+    "confirmed_received": 0,
+    "in_transit_qty": 0,
+    "status": "Pending",
+    "assigned_to": null,
+    "completed_at": null,
+    "acknowledged": false
+  },
+  {
+    "id": "ACT-9C5924C8",
+    "timestamp": "2026-04-18 13:08:51",
+    "source_role": "Admin",
+    "source_id": "HQ",
+    "action_type": "Strategic Directive",
+    "details": {
+      "plan_of_action": "Surgical Market Capture: Launch a strike on the 'MOL05' segment by identifying high-volume accounts with low alignment.",
+      "instructions": "Transparent HQ Directive: Implement this marketing strategy immediately in your territory accounts."
+    },
+    "total_requested": 0,
+    "confirmed_received": 0,
+    "in_transit_qty": 0,
+    "status": "Pending",
+    "assigned_to": null,
+    "completed_at": null,
+    "acknowledged": false
+  },
+  {
+    "id": "ACT-A4ED2C24",
+    "timestamp": "2026-04-18 13:08:51",
+    "source_role": "Admin",
+    "source_id": "HQ",
+    "action_type": "Strategic Directive",
+    "details": {
+      "plan_of_action": "Surgical Market Capture: Launch a strike on the 'MOL05' segment by identifying high-volume accounts with low alignment.",
+      "instructions": "Transparent HQ Directive: Implement this marketing strategy immediately in your territory accounts."
+    },
+    "total_requested": 0,
+    "confirmed_received": 0,
+    "in_transit_qty": 0,
+    "status": "Pending",
+    "assigned_to": null,
+    "completed_at": null,
+    "acknowledged": false
+  },
+  {
+    "id": "ACT-213AB3B4",
+    "timestamp": "2026-04-18 14:02:42",
+    "source_role": "Admin",
+    "source_id": "HQ",
+    "action_type": "Strategic Directive",
+    "details": {
+      "plan_of_action": "Empire Expansion: Dominate high-ROI territories where competitor vacancy is currently peaking.",
+      "instructions": "Transparent HQ Directive: Implement this marketing strategy immediately in your territory accounts."
+    },
+    "total_requested": 0,
+    "confirmed_received": 0,
+    "in_transit_qty": 0,
+    "status": "Pending",
+    "assigned_to": null,
+    "completed_at": null,
+    "acknowledged": false
+  },
+  {
+    "id": "ACT-B8E7147B",
+    "timestamp": "2026-04-18 14:02:42",
+    "source_role": "Admin",
+    "source_id": "HQ",
+    "action_type": "Strategic Directive",
+    "details": {
+      "plan_of_action": "Empire Expansion: Dominate high-ROI territories where competitor vacancy is currently peaking.",
+      "instructions": "Transparent HQ Directive: Implement this marketing strategy immediately in your territory accounts."
+    },
+    "total_requested": 0,
+    "confirmed_received": 0,
+    "in_transit_qty": 0,
+    "status": "Pending",
+    "assigned_to": null,
+    "completed_at": null,
+    "acknowledged": false
+  },
+  {
+    "id": "ACT-1257ADD7",
+    "timestamp": "2026-04-18 14:02:42",
+    "source_role": "Admin",
+    "source_id": "HQ",
+    "action_type": "Strategic Directive",
+    "details": {
+      "plan_of_action": "Empire Expansion: Dominate high-ROI territories where competitor vacancy is currently peaking.",
+      "instructions": "Transparent HQ Directive: Implement this marketing strategy immediately in your territory accounts."
+    },
+    "total_requested": 0,
+    "confirmed_received": 0,
+    "in_transit_qty": 0,
+    "status": "Pending",
+    "assigned_to": null,
+    "completed_at": null,
+    "acknowledged": false
+  },
+  {
+    "id": "ACT-DDFC6304",
+    "timestamp": "2026-04-18 14:02:42",
+    "source_role": "Admin",
+    "source_id": "HQ",
+    "action_type": "Strategic Directive",
+    "details": {
+      "plan_of_action": "Empire Expansion: Dominate high-ROI territories where competitor vacancy is currently peaking.",
+      "instructions": "Transparent HQ Directive: Implement this marketing strategy immediately in your territory accounts."
+    },
+    "total_requested": 0,
+    "confirmed_received": 0,
+    "in_transit_qty": 0,
+    "status": "Pending",
+    "assigned_to": null,
+    "completed_at": null,
+    "acknowledged": false
+  },
+  {
+    "id": "ACT-C8C3CE7F",
+    "timestamp": "2026-04-18 14:02:42",
+    "source_role": "Admin",
+    "source_id": "HQ",
+    "action_type": "Strategic Directive",
+    "details": {
+      "plan_of_action": "Empire Expansion: Dominate high-ROI territories where competitor vacancy is currently peaking.",
+      "instructions": "Transparent HQ Directive: Implement this marketing strategy immediately in your territory accounts."
+    },
+    "total_requested": 0,
+    "confirmed_received": 0,
+    "in_transit_qty": 0,
+    "status": "Pending",
+    "assigned_to": null,
+    "completed_at": null,
+    "acknowledged": false
+  },
+  {
+    "id": "ACT-39B73089",
+    "timestamp": "2026-04-18 14:02:42",
+    "source_role": "Admin",
+    "source_id": "HQ",
+    "action_type": "Strategic Directive",
+    "details": {
+      "plan_of_action": "Empire Expansion: Dominate high-ROI territories where competitor vacancy is currently peaking.",
+      "instructions": "Transparent HQ Directive: Implement this marketing strategy immediately in your territory accounts."
+    },
+    "total_requested": 0,
+    "confirmed_received": 0,
+    "in_transit_qty": 0,
+    "status": "Pending",
+    "assigned_to": null,
+    "completed_at": null,
+    "acknowledged": false
+  },
+  {
+    "id": "ACT-1D50070C",
+    "timestamp": "2026-04-18 14:02:42",
+    "source_role": "Admin",
+    "source_id": "HQ",
+    "action_type": "Strategic Directive",
+    "details": {
+      "plan_of_action": "Empire Expansion: Dominate high-ROI territories where competitor vacancy is currently peaking.",
+      "instructions": "Transparent HQ Directive: Implement this marketing strategy immediately in your territory accounts."
+    },
+    "total_requested": 0,
+    "confirmed_received": 0,
+    "in_transit_qty": 0,
+    "status": "Pending",
+    "assigned_to": null,
+    "completed_at": null,
+    "acknowledged": false
+  },
+  {
+    "id": "ACT-59536A59",
+    "timestamp": "2026-04-18 14:02:42",
+    "source_role": "Admin",
+    "source_id": "HQ",
+    "action_type": "Strategic Directive",
+    "details": {
+      "plan_of_action": "Empire Expansion: Dominate high-ROI territories where competitor vacancy is currently peaking.",
+      "instructions": "Transparent HQ Directive: Implement this marketing strategy immediately in your territory accounts."
+    },
+    "total_requested": 0,
+    "confirmed_received": 0,
+    "in_transit_qty": 0,
+    "status": "Pending",
+    "assigned_to": null,
+    "completed_at": null,
+    "acknowledged": false
+  },
+  {
+    "id": "ACT-1A086C7B",
+    "timestamp": "2026-04-18 14:02:42",
+    "source_role": "Admin",
+    "source_id": "HQ",
+    "action_type": "Strategic Directive",
+    "details": {
+      "plan_of_action": "Empire Expansion: Dominate high-ROI territories where competitor vacancy is currently peaking.",
+      "instructions": "Transparent HQ Directive: Implement this marketing strategy immediately in your territory accounts."
+    },
+    "total_requested": 0,
+    "confirmed_received": 0,
+    "in_transit_qty": 0,
+    "status": "Pending",
+    "assigned_to": null,
+    "completed_at": null,
+    "acknowledged": false
+  },
+  {
+    "id": "ACT-D443E9F2",
+    "timestamp": "2026-04-18 14:02:42",
+    "source_role": "Admin",
+    "source_id": "HQ",
+    "action_type": "Strategic Directive",
+    "details": {
+      "plan_of_action": "Empire Expansion: Dominate high-ROI territories where competitor vacancy is currently peaking.",
+      "instructions": "Transparent HQ Directive: Implement this marketing strategy immediately in your territory accounts."
+    },
+    "total_requested": 0,
+    "confirmed_received": 0,
+    "in_transit_qty": 0,
+    "status": "Pending",
+    "assigned_to": null,
+    "completed_at": null,
+    "acknowledged": false
+  },
+  {
+    "id": "ACT-98A3AADC",
+    "timestamp": "2026-04-18 14:03:09",
+    "source_role": "Admin",
+    "source_id": "HQ",
+    "action_type": "Strategic Directive",
+    "details": {
+      "plan_of_action": "Competitor Neutralization: Position Aetheris as the bedrock of reliability during the current Madrigal Pharma NASH disruption.",
+      "instructions": "Transparent HQ Directive: Implement this marketing strategy immediately in your territory accounts."
+    },
+    "total_requested": 0,
+    "confirmed_received": 0,
+    "in_transit_qty": 0,
+    "status": "Pending",
+    "assigned_to": null,
+    "completed_at": null,
+    "acknowledged": false
+  },
+  {
+    "id": "ACT-3F37D792",
+    "timestamp": "2026-04-18 14:03:09",
+    "source_role": "Admin",
+    "source_id": "HQ",
+    "action_type": "Strategic Directive",
+    "details": {
+      "plan_of_action": "Competitor Neutralization: Position Aetheris as the bedrock of reliability during the current Madrigal Pharma NASH disruption.",
+      "instructions": "Transparent HQ Directive: Implement this marketing strategy immediately in your territory accounts."
+    },
+    "total_requested": 0,
+    "confirmed_received": 0,
+    "in_transit_qty": 0,
+    "status": "Pending",
+    "assigned_to": null,
+    "completed_at": null,
+    "acknowledged": false
+  },
+  {
+    "id": "ACT-783B7C24",
+    "timestamp": "2026-04-18 14:03:09",
+    "source_role": "Admin",
+    "source_id": "HQ",
+    "action_type": "Strategic Directive",
+    "details": {
+      "plan_of_action": "Competitor Neutralization: Position Aetheris as the bedrock of reliability during the current Madrigal Pharma NASH disruption.",
+      "instructions": "Transparent HQ Directive: Implement this marketing strategy immediately in your territory accounts."
+    },
+    "total_requested": 0,
+    "confirmed_received": 0,
+    "in_transit_qty": 0,
+    "status": "Pending",
+    "assigned_to": null,
+    "completed_at": null,
+    "acknowledged": false
+  },
+  {
+    "id": "ACT-E764394E",
+    "timestamp": "2026-04-18 14:03:09",
+    "source_role": "Admin",
+    "source_id": "HQ",
+    "action_type": "Strategic Directive",
+    "details": {
+      "plan_of_action": "Competitor Neutralization: Position Aetheris as the bedrock of reliability during the current Madrigal Pharma NASH disruption.",
+      "instructions": "Transparent HQ Directive: Implement this marketing strategy immediately in your territory accounts."
+    },
+    "total_requested": 0,
+    "confirmed_received": 0,
+    "in_transit_qty": 0,
+    "status": "Pending",
+    "assigned_to": null,
+    "completed_at": null,
+    "acknowledged": false
+  },
+  {
+    "id": "ACT-118E7CDD",
+    "timestamp": "2026-04-18 14:03:09",
+    "source_role": "Admin",
+    "source_id": "HQ",
+    "action_type": "Strategic Directive",
+    "details": {
+      "plan_of_action": "Competitor Neutralization: Position Aetheris as the bedrock of reliability during the current Madrigal Pharma NASH disruption.",
+      "instructions": "Transparent HQ Directive: Implement this marketing strategy immediately in your territory accounts."
+    },
+    "total_requested": 0,
+    "confirmed_received": 0,
+    "in_transit_qty": 0,
+    "status": "Pending",
+    "assigned_to": null,
+    "completed_at": null,
+    "acknowledged": false
+  },
+  {
+    "id": "ACT-F0264AA6",
+    "timestamp": "2026-04-18 14:03:09",
+    "source_role": "Admin",
+    "source_id": "HQ",
+    "action_type": "Strategic Directive",
+    "details": {
+      "plan_of_action": "Competitor Neutralization: Position Aetheris as the bedrock of reliability during the current Madrigal Pharma NASH disruption.",
+      "instructions": "Transparent HQ Directive: Implement this marketing strategy immediately in your territory accounts."
+    },
+    "total_requested": 0,
+    "confirmed_received": 0,
+    "in_transit_qty": 0,
+    "status": "Pending",
+    "assigned_to": null,
+    "completed_at": null,
+    "acknowledged": false
+  },
+  {
+    "id": "ACT-936D8206",
+    "timestamp": "2026-04-18 14:03:09",
+    "source_role": "Admin",
+    "source_id": "HQ",
+    "action_type": "Strategic Directive",
+    "details": {
+      "plan_of_action": "Competitor Neutralization: Position Aetheris as the bedrock of reliability during the current Madrigal Pharma NASH disruption.",
+      "instructions": "Transparent HQ Directive: Implement this marketing strategy immediately in your territory accounts."
+    },
+    "total_requested": 0,
+    "confirmed_received": 0,
+    "in_transit_qty": 0,
+    "status": "Pending",
+    "assigned_to": null,
+    "completed_at": null,
+    "acknowledged": false
+  },
+  {
+    "id": "ACT-9E186789",
+    "timestamp": "2026-04-18 14:03:09",
+    "source_role": "Admin",
+    "source_id": "HQ",
+    "action_type": "Strategic Directive",
+    "details": {
+      "plan_of_action": "Competitor Neutralization: Position Aetheris as the bedrock of reliability during the current Madrigal Pharma NASH disruption.",
+      "instructions": "Transparent HQ Directive: Implement this marketing strategy immediately in your territory accounts."
+    },
+    "total_requested": 0,
+    "confirmed_received": 0,
+    "in_transit_qty": 0,
+    "status": "Pending",
+    "assigned_to": null,
+    "completed_at": null,
+    "acknowledged": false
+  },
+  {
+    "id": "ACT-5CCB82BF",
+    "timestamp": "2026-04-18 14:03:09",
+    "source_role": "Admin",
+    "source_id": "HQ",
+    "action_type": "Strategic Directive",
+    "details": {
+      "plan_of_action": "Competitor Neutralization: Position Aetheris as the bedrock of reliability during the current Madrigal Pharma NASH disruption.",
+      "instructions": "Transparent HQ Directive: Implement this marketing strategy immediately in your territory accounts."
+    },
+    "total_requested": 0,
+    "confirmed_received": 0,
+    "in_transit_qty": 0,
+    "status": "Pending",
+    "assigned_to": null,
+    "completed_at": null,
+    "acknowledged": false
+  },
+  {
+    "id": "ACT-9350A066",
+    "timestamp": "2026-04-18 14:03:09",
+    "source_role": "Admin",
+    "source_id": "HQ",
+    "action_type": "Strategic Directive",
+    "details": {
+      "plan_of_action": "Competitor Neutralization: Position Aetheris as the bedrock of reliability during the current Madrigal Pharma NASH disruption.",
+      "instructions": "Transparent HQ Directive: Implement this marketing strategy immediately in your territory accounts."
+    },
+    "total_requested": 0,
+    "confirmed_received": 0,
+    "in_transit_qty": 0,
+    "status": "Pending",
+    "assigned_to": null,
+    "completed_at": null,
+    "acknowledged": false
+  },
+  {
+    "id": "ACT-A398BEC6",
+    "timestamp": "2026-04-18 14:07:09",
+    "source_role": "Admin",
+    "source_id": "HQ",
+    "action_type": "Strategic Directive",
+    "details": {
+      "plan_of_action": "Surgical Market Capture: Launch a strike on the 'MOL01' segment by identifying high-volume accounts with low alignment.",
+      "instructions": "Transparent HQ Directive: Implement this marketing strategy immediately in your territory accounts."
+    },
+    "total_requested": 0,
+    "confirmed_received": 0,
+    "in_transit_qty": 0,
+    "status": "Assigned",
+    "assigned_to": "REP008",
+    "completed_at": null,
+    "acknowledged": false,
+    "admin_note": "STRATEGIC UPDATE: Competitor Neutralization: Position Aetheris as the bedrock of reliability during the current Madrigal Pharma NASH disruption."
+  },
+  {
+    "id": "ACT-EA69BD86",
+    "timestamp": "2026-04-18 14:07:09",
+    "source_role": "Admin",
+    "source_id": "HQ",
+    "action_type": "Strategic Directive",
+    "details": {
+      "plan_of_action": "Surgical Market Capture: Launch a strike on the 'MOL01' segment by identifying high-volume accounts with low alignment.",
+      "instructions": "Transparent HQ Directive: Implement this marketing strategy immediately in your territory accounts."
+    },
+    "total_requested": 0,
+    "confirmed_received": 0,
+    "in_transit_qty": 0,
+    "status": "Assigned",
+    "assigned_to": "REP004",
+    "completed_at": null,
+    "acknowledged": false,
+    "admin_note": "STRATEGIC UPDATE: Competitor Neutralization: Position Aetheris as the bedrock of reliability during the current Madrigal Pharma NASH disruption."
+  },
+  {
+    "id": "ACT-B48EC2BE",
+    "timestamp": "2026-04-18 14:07:09",
+    "source_role": "Admin",
+    "source_id": "HQ",
+    "action_type": "Strategic Directive",
+    "details": {
+      "plan_of_action": "Surgical Market Capture: Launch a strike on the 'MOL01' segment by identifying high-volume accounts with low alignment.",
+      "instructions": "Transparent HQ Directive: Implement this marketing strategy immediately in your territory accounts."
+    },
+    "total_requested": 0,
+    "confirmed_received": 0,
+    "in_transit_qty": 0,
+    "status": "Assigned",
+    "assigned_to": "REP005",
+    "completed_at": null,
+    "acknowledged": false,
+    "admin_note": "STRATEGIC UPDATE: Competitor Neutralization: Position Aetheris as the bedrock of reliability during the current Madrigal Pharma NASH disruption."
+  },
+  {
+    "id": "ACT-FCE513CB",
+    "timestamp": "2026-04-18 14:07:09",
+    "source_role": "Admin",
+    "source_id": "HQ",
+    "action_type": "Strategic Directive",
+    "details": {
+      "plan_of_action": "Surgical Market Capture: Launch a strike on the 'MOL01' segment by identifying high-volume accounts with low alignment.",
+      "instructions": "Transparent HQ Directive: Implement this marketing strategy immediately in your territory accounts."
+    },
+    "total_requested": 0,
+    "confirmed_received": 0,
+    "in_transit_qty": 0,
+    "status": "Assigned",
+    "assigned_to": "REP003",
+    "completed_at": null,
+    "acknowledged": false,
+    "admin_note": "STRATEGIC UPDATE: Competitor Neutralization: Position Aetheris as the bedrock of reliability during the current Madrigal Pharma NASH disruption."
+  },
+  {
+    "id": "ACT-F5649EBF",
+    "timestamp": "2026-04-18 14:07:09",
+    "source_role": "Admin",
+    "source_id": "HQ",
+    "action_type": "Strategic Directive",
+    "details": {
+      "plan_of_action": "Surgical Market Capture: Launch a strike on the 'MOL01' segment by identifying high-volume accounts with low alignment.",
+      "instructions": "Transparent HQ Directive: Implement this marketing strategy immediately in your territory accounts."
+    },
+    "total_requested": 0,
+    "confirmed_received": 0,
+    "in_transit_qty": 0,
+    "status": "Completed",
+    "assigned_to": "REP007",
+    "completed_at": "2026-04-18 20:36:32",
+    "acknowledged": false,
+    "admin_note": "STRATEGIC UPDATE: Surgical Market Capture: Launch a strike on the 'MOL01' segment by identifying high-volume accounts with low alignment."
+  },
+  {
+    "id": "ACT-FB0B4180",
+    "timestamp": "2026-04-18 14:07:09",
+    "source_role": "Admin",
+    "source_id": "HQ",
+    "action_type": "Strategic Directive",
+    "details": {
+      "plan_of_action": "Surgical Market Capture: Launch a strike on the 'MOL01' segment by identifying high-volume accounts with low alignment.",
+      "instructions": "Transparent HQ Directive: Implement this marketing strategy immediately in your territory accounts."
+    },
+    "total_requested": 0,
+    "confirmed_received": 0,
+    "in_transit_qty": 0,
+    "status": "Assigned",
+    "assigned_to": "REP006",
+    "completed_at": null,
+    "acknowledged": false,
+    "admin_note": "STRATEGIC UPDATE: Competitor Neutralization: Position Aetheris as the bedrock of reliability during the current Madrigal Pharma NASH disruption."
+  },
+  {
+    "id": "ACT-F08CA8AA",
+    "timestamp": "2026-04-18 14:07:09",
+    "source_role": "Admin",
+    "source_id": "HQ",
+    "action_type": "Strategic Directive",
+    "details": {
+      "plan_of_action": "Surgical Market Capture: Launch a strike on the 'MOL01' segment by identifying high-volume accounts with low alignment.",
+      "instructions": "Transparent HQ Directive: Implement this marketing strategy immediately in your territory accounts."
+    },
+    "total_requested": 0,
+    "confirmed_received": 0,
+    "in_transit_qty": 0,
+    "status": "Assigned",
+    "assigned_to": "REP002",
+    "completed_at": null,
+    "acknowledged": false,
+    "admin_note": "STRATEGIC UPDATE: Competitor Neutralization: Position Aetheris as the bedrock of reliability during the current Madrigal Pharma NASH disruption."
+  },
+  {
+    "id": "ACT-836FA10E",
+    "timestamp": "2026-04-18 14:07:09",
+    "source_role": "Admin",
+    "source_id": "HQ",
+    "action_type": "Strategic Directive",
+    "details": {
+      "plan_of_action": "Surgical Market Capture: Launch a strike on the 'MOL01' segment by identifying high-volume accounts with low alignment.",
+      "instructions": "Transparent HQ Directive: Implement this marketing strategy immediately in your territory accounts."
+    },
+    "total_requested": 0,
+    "confirmed_received": 0,
+    "in_transit_qty": 0,
+    "status": "Assigned",
+    "assigned_to": "REP001",
+    "completed_at": null,
+    "acknowledged": false,
+    "admin_note": "STRATEGIC UPDATE: Competitor Neutralization: Position Aetheris as the bedrock of reliability during the current Madrigal Pharma NASH disruption."
+  },
+  {
+    "id": "ACT-E4F5FB8D",
+    "timestamp": "2026-04-18 14:07:10",
+    "source_role": "Admin",
+    "source_id": "HQ",
+    "action_type": "Strategic Directive",
+    "details": {
+      "plan_of_action": "Surgical Market Capture: Launch a strike on the 'MOL01' segment by identifying high-volume accounts with low alignment.",
+      "instructions": "Transparent HQ Directive: Implement this marketing strategy immediately in your territory accounts."
+    },
+    "total_requested": 0,
+    "confirmed_received": 0,
+    "in_transit_qty": 0,
+    "status": "Assigned",
+    "assigned_to": "REP009",
+    "completed_at": null,
+    "acknowledged": false,
+    "admin_note": "STRATEGIC UPDATE: Competitor Neutralization: Position Aetheris as the bedrock of reliability during the current Madrigal Pharma NASH disruption."
+  },
+  {
+    "id": "ACT-B33FAD14",
+    "timestamp": "2026-04-18 14:07:10",
+    "source_role": "Admin",
+    "source_id": "HQ",
+    "action_type": "Strategic Directive",
+    "details": {
+      "plan_of_action": "Surgical Market Capture: Launch a strike on the 'MOL01' segment by identifying high-volume accounts with low alignment.",
+      "instructions": "Transparent HQ Directive: Implement this marketing strategy immediately in your territory accounts."
+    },
+    "total_requested": 0,
+    "confirmed_received": 0,
+    "in_transit_qty": 0,
+    "status": "Assigned",
+    "assigned_to": "REP010",
+    "completed_at": null,
+    "acknowledged": false,
+    "admin_note": "STRATEGIC UPDATE: Competitor Neutralization: Position Aetheris as the bedrock of reliability during the current Madrigal Pharma NASH disruption."
+  },
+  {
+    "id": "ACT-57F0ACD3",
+    "timestamp": "2026-04-18 20:34:51",
+    "source_role": "Doctor",
+    "source_id": "DOC004",
+    "action_type": "Sample Requisition",
+    "details": {
+      "compound": "MOL03",
+      "qty": 50,
+      "instructions": ""
+    },
+    "total_requested": 50,
+    "confirmed_received": 50,
+    "in_transit_qty": 0,
+    "status": "Completed",
+    "assigned_to": "REP007",
+    "completed_at": null,
+    "acknowledged": true,
+    "admin_note": "Dispatch logged: 50 units. Total in transit: 50",
+    "doctor_note": "A batch of 50 units has been dispatched to your clinic. Please confirm on arrival."
+  },
+  {
+    "id": "ACT-E8624D43",
+    "timestamp": "2026-04-18 21:21:12",
+    "source_role": "Admin",
+    "source_id": "HQ",
+    "action_type": "Strategic Directive",
+    "details": {
+      "plan_of_action": "Competitor Neutralization: Position Aetheris as the bedrock of reliability during the current Madrigal Pharma NASH disruption.",
+      "instructions": "Transparent HQ Directive: Implement this marketing strategy immediately in your territory accounts."
+    },
+    "total_requested": 0,
+    "confirmed_received": 0,
+    "in_transit_qty": 0,
+    "status": "Assigned",
+    "assigned_to": "REP008",
+    "completed_at": null,
+    "acknowledged": false,
+    "admin_note": "STRATEGIC UPDATE: Competitor Neutralization: Position Aetheris as the bedrock of reliability during the current Madrigal Pharma NASH disruption."
+  },
+  {
+    "id": "ACT-6D4F27D7",
+    "timestamp": "2026-04-18 21:21:12",
+    "source_role": "Admin",
+    "source_id": "HQ",
+    "action_type": "Strategic Directive",
+    "details": {
+      "plan_of_action": "Competitor Neutralization: Position Aetheris as the bedrock of reliability during the current Madrigal Pharma NASH disruption.",
+      "instructions": "Transparent HQ Directive: Implement this marketing strategy immediately in your territory accounts."
+    },
+    "total_requested": 0,
+    "confirmed_received": 0,
+    "in_transit_qty": 0,
+    "status": "Assigned",
+    "assigned_to": "REP004",
+    "completed_at": null,
+    "acknowledged": false,
+    "admin_note": "STRATEGIC UPDATE: Competitor Neutralization: Position Aetheris as the bedrock of reliability during the current Madrigal Pharma NASH disruption."
+  },
+  {
+    "id": "ACT-8A62F93A",
+    "timestamp": "2026-04-18 21:21:12",
+    "source_role": "Admin",
+    "source_id": "HQ",
+    "action_type": "Strategic Directive",
+    "details": {
+      "plan_of_action": "Competitor Neutralization: Position Aetheris as the bedrock of reliability during the current Madrigal Pharma NASH disruption.",
+      "instructions": "Transparent HQ Directive: Implement this marketing strategy immediately in your territory accounts."
+    },
+    "total_requested": 0,
+    "confirmed_received": 0,
+    "in_transit_qty": 0,
+    "status": "Assigned",
+    "assigned_to": "REP005",
+    "completed_at": null,
+    "acknowledged": false,
+    "admin_note": "STRATEGIC UPDATE: Competitor Neutralization: Position Aetheris as the bedrock of reliability during the current Madrigal Pharma NASH disruption."
+  },
+  {
+    "id": "ACT-E4617E29",
+    "timestamp": "2026-04-18 21:21:12",
+    "source_role": "Admin",
+    "source_id": "HQ",
+    "action_type": "Strategic Directive",
+    "details": {
+      "plan_of_action": "Competitor Neutralization: Position Aetheris as the bedrock of reliability during the current Madrigal Pharma NASH disruption.",
+      "instructions": "Transparent HQ Directive: Implement this marketing strategy immediately in your territory accounts."
+    },
+    "total_requested": 0,
+    "confirmed_received": 0,
+    "in_transit_qty": 0,
+    "status": "Assigned",
+    "assigned_to": "REP003",
+    "completed_at": null,
+    "acknowledged": false,
+    "admin_note": "STRATEGIC UPDATE: Competitor Neutralization: Position Aetheris as the bedrock of reliability during the current Madrigal Pharma NASH disruption."
+  },
+  {
+    "id": "ACT-869871DD",
+    "timestamp": "2026-04-18 21:21:12",
+    "source_role": "Admin",
+    "source_id": "HQ",
+    "action_type": "Strategic Directive",
+    "details": {
+      "plan_of_action": "Competitor Neutralization: Position Aetheris as the bedrock of reliability during the current Madrigal Pharma NASH disruption.",
+      "instructions": "Transparent HQ Directive: Implement this marketing strategy immediately in your territory accounts."
+    },
+    "total_requested": 0,
+    "confirmed_received": 0,
+    "in_transit_qty": 0,
+    "status": "Assigned",
+    "assigned_to": "REP007",
+    "completed_at": null,
+    "acknowledged": false,
+    "admin_note": "STRATEGIC UPDATE: Competitor Neutralization: Position Aetheris as the bedrock of reliability during the current Madrigal Pharma NASH disruption."
+  },
+  {
+    "id": "ACT-58871157",
+    "timestamp": "2026-04-18 21:21:12",
+    "source_role": "Admin",
+    "source_id": "HQ",
+    "action_type": "Strategic Directive",
+    "details": {
+      "plan_of_action": "Competitor Neutralization: Position Aetheris as the bedrock of reliability during the current Madrigal Pharma NASH disruption.",
+      "instructions": "Transparent HQ Directive: Implement this marketing strategy immediately in your territory accounts."
+    },
+    "total_requested": 0,
+    "confirmed_received": 0,
+    "in_transit_qty": 0,
+    "status": "Assigned",
+    "assigned_to": "REP006",
+    "completed_at": null,
+    "acknowledged": false,
+    "admin_note": "STRATEGIC UPDATE: Competitor Neutralization: Position Aetheris as the bedrock of reliability during the current Madrigal Pharma NASH disruption."
+  },
+  {
+    "id": "ACT-533BD355",
+    "timestamp": "2026-04-18 21:21:12",
+    "source_role": "Admin",
+    "source_id": "HQ",
+    "action_type": "Strategic Directive",
+    "details": {
+      "plan_of_action": "Competitor Neutralization: Position Aetheris as the bedrock of reliability during the current Madrigal Pharma NASH disruption.",
+      "instructions": "Transparent HQ Directive: Implement this marketing strategy immediately in your territory accounts."
+    },
+    "total_requested": 0,
+    "confirmed_received": 0,
+    "in_transit_qty": 0,
+    "status": "Assigned",
+    "assigned_to": "REP002",
+    "completed_at": null,
+    "acknowledged": false,
+    "admin_note": "STRATEGIC UPDATE: Competitor Neutralization: Position Aetheris as the bedrock of reliability during the current Madrigal Pharma NASH disruption."
+  },
+  {
+    "id": "ACT-CA01296A",
+    "timestamp": "2026-04-18 21:21:12",
+    "source_role": "Admin",
+    "source_id": "HQ",
+    "action_type": "Strategic Directive",
+    "details": {
+      "plan_of_action": "Competitor Neutralization: Position Aetheris as the bedrock of reliability during the current Madrigal Pharma NASH disruption.",
+      "instructions": "Transparent HQ Directive: Implement this marketing strategy immediately in your territory accounts."
+    },
+    "total_requested": 0,
+    "confirmed_received": 0,
+    "in_transit_qty": 0,
+    "status": "Assigned",
+    "assigned_to": "REP001",
+    "completed_at": null,
+    "acknowledged": false,
+    "admin_note": "STRATEGIC UPDATE: Competitor Neutralization: Position Aetheris as the bedrock of reliability during the current Madrigal Pharma NASH disruption."
+  },
+  {
+    "id": "ACT-03E959B3",
+    "timestamp": "2026-04-18 21:21:12",
+    "source_role": "Admin",
+    "source_id": "HQ",
+    "action_type": "Strategic Directive",
+    "details": {
+      "plan_of_action": "Competitor Neutralization: Position Aetheris as the bedrock of reliability during the current Madrigal Pharma NASH disruption.",
+      "instructions": "Transparent HQ Directive: Implement this marketing strategy immediately in your territory accounts."
+    },
+    "total_requested": 0,
+    "confirmed_received": 0,
+    "in_transit_qty": 0,
+    "status": "Assigned",
+    "assigned_to": "REP009",
+    "completed_at": null,
+    "acknowledged": false,
+    "admin_note": "STRATEGIC UPDATE: Competitor Neutralization: Position Aetheris as the bedrock of reliability during the current Madrigal Pharma NASH disruption."
+  },
+  {
+    "id": "ACT-26FD5699",
+    "timestamp": "2026-04-18 21:21:13",
+    "source_role": "Admin",
+    "source_id": "HQ",
+    "action_type": "Strategic Directive",
+    "details": {
+      "plan_of_action": "Competitor Neutralization: Position Aetheris as the bedrock of reliability during the current Madrigal Pharma NASH disruption.",
+      "instructions": "Transparent HQ Directive: Implement this marketing strategy immediately in your territory accounts."
+    },
+    "total_requested": 0,
+    "confirmed_received": 0,
+    "in_transit_qty": 0,
+    "status": "Assigned",
+    "assigned_to": "REP010",
+    "completed_at": null,
+    "acknowledged": false,
+    "admin_note": "STRATEGIC UPDATE: Competitor Neutralization: Position Aetheris as the bedrock of reliability during the current Madrigal Pharma NASH disruption."
+  },
+  {
+    "id": "ACT-8CA79844",
+    "timestamp": "2026-04-18 21:23:02",
+    "source_role": "Sales Rep",
+    "source_id": "REP003",
+    "action_type": "Fast Log Visit",
+    "details": {
+      "doctor": "Dr. Pooja Desai"
+    },
+    "total_requested": 0,
+    "confirmed_received": 0,
+    "in_transit_qty": 0,
+    "status": "Pending",
+    "assigned_to": null,
+    "completed_at": null,
+    "acknowledged": false
+  }
+]

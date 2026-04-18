@@ -1,0 +1,715 @@
+doctor_id,molecule_id,month,alert_type,priority,days_since_last_visit,days_since_last_gift,negative_count,recommended_action
+DOC005,MOL01,2025-03,Competitive Displacement,HIGH,13,13,1,Schedule visit immediately
+DOC050,MOL01,2025-04,Competitive Displacement,HIGH,23,23,2,Schedule visit immediately
+DOC028,MOL01,2025-04,Competitive Displacement,HIGH,72,76,2,Schedule visit + carry sample kit
+DOC032,MOL01,2025-05,Competitive Displacement,HIGH,14,14,1,Schedule visit immediately
+DOC016,MOL01,2025-05,Competitive Displacement,HIGH,21,21,1,Schedule visit immediately
+DOC043,MOL01,2025-05,Competitive Displacement,HIGH,24,24,0,Schedule visit immediately
+DOC029,MOL01,2025-05,Competitive Displacement,HIGH,47,47,0,Monitor
+DOC022,MOL01,2025-05,Competitive Displacement,HIGH,0,0,1,Schedule visit immediately
+DOC035,MOL01,2025-05,Competitive Displacement,HIGH,61,69,1,Schedule visit + carry sample kit
+DOC017,MOL01,2025-06,Competitive Displacement,HIGH,11,11,1,Schedule visit immediately
+DOC020,MOL02,2025-03,Competitive Displacement,HIGH,9,9,1,Schedule visit immediately
+DOC046,MOL02,2025-04,Competitive Displacement,HIGH,9,9,1,Schedule visit immediately
+DOC047,MOL02,2025-04,Competitive Displacement,HIGH,11,11,0,Schedule visit immediately
+DOC007,MOL02,2025-04,Competitive Displacement,HIGH,7,67,1,Schedule visit + carry sample kit
+DOC046,MOL02,2025-05,Competitive Displacement,HIGH,9,9,1,Schedule visit immediately
+DOC036,MOL02,2025-05,Competitive Displacement,HIGH,4,70,2,Schedule visit + carry sample kit
+DOC039,MOL02,2025-06,Competitive Displacement,HIGH,2,12,1,Schedule visit immediately
+DOC013,MOL02,2025-06,Competitive Displacement,HIGH,21,29,2,Schedule visit immediately
+DOC009,MOL02,2025-06,Competitive Displacement,HIGH,44,74,2,Schedule visit + carry sample kit
+DOC016,MOL02,2025-06,Competitive Displacement,HIGH,21,21,1,Schedule visit immediately
+DOC037,MOL02,2025-06,Competitive Displacement,HIGH,10,10,0,Schedule visit immediately
+DOC021,MOL03,2025-03,Competitive Displacement,HIGH,14,112,2,Schedule visit + carry sample kit
+DOC020,MOL03,2025-03,Competitive Displacement,HIGH,9,9,1,Schedule visit immediately
+DOC037,MOL03,2025-04,Competitive Displacement,HIGH,10,10,0,Schedule visit immediately
+DOC021,MOL03,2025-04,Competitive Displacement,HIGH,14,112,2,Schedule visit + carry sample kit
+DOC011,MOL03,2025-04,Competitive Displacement,HIGH,11,41,0,Monitor
+DOC028,MOL03,2025-04,Competitive Displacement,HIGH,72,76,2,Schedule visit + carry sample kit
+DOC009,MOL03,2025-05,Competitive Displacement,HIGH,44,74,2,Schedule visit + carry sample kit
+DOC046,MOL03,2025-05,Competitive Displacement,HIGH,9,9,1,Schedule visit immediately
+DOC027,MOL03,2025-05,Competitive Displacement,HIGH,1,16,1,Schedule visit immediately
+DOC015,MOL03,2025-05,Competitive Displacement,HIGH,0,0,1,Schedule visit immediately
+DOC048,MOL03,2025-05,Competitive Displacement,HIGH,13,13,1,Schedule visit immediately
+DOC010,MOL03,2025-05,Competitive Displacement,HIGH,0,64,0,Schedule visit + carry sample kit
+DOC040,MOL03,2025-06,Competitive Displacement,HIGH,18,18,1,Schedule visit immediately
+DOC029,MOL03,2025-06,Competitive Displacement,HIGH,47,47,0,Monitor
+DOC025,MOL04,2025-04,Competitive Displacement,HIGH,2,2,1,Schedule visit immediately
+DOC038,MOL04,2025-04,Competitive Displacement,HIGH,96,96,1,Schedule visit + carry sample kit
+DOC039,MOL04,2025-04,Competitive Displacement,HIGH,2,12,1,Schedule visit immediately
+DOC044,MOL04,2025-04,Competitive Displacement,HIGH,26,26,2,Schedule visit immediately
+DOC014,MOL04,2025-05,Competitive Displacement,HIGH,9,11,0,Schedule visit immediately
+DOC020,MOL04,2025-05,Competitive Displacement,HIGH,9,9,1,Schedule visit immediately
+DOC011,MOL04,2025-05,Competitive Displacement,HIGH,11,41,0,Monitor
+DOC039,MOL04,2025-05,Competitive Displacement,HIGH,2,12,1,Schedule visit immediately
+DOC010,MOL04,2025-05,Competitive Displacement,HIGH,0,64,0,Schedule visit + carry sample kit
+DOC022,MOL04,2025-05,Competitive Displacement,HIGH,0,0,1,Schedule visit immediately
+DOC034,MOL04,2025-05,Competitive Displacement,HIGH,6,6,1,Schedule visit immediately
+DOC049,MOL04,2025-06,Competitive Displacement,HIGH,11,31,1,Monitor
+DOC008,MOL04,2025-06,Competitive Displacement,HIGH,0,0,0,Schedule visit immediately
+DOC045,MOL04,2025-06,Competitive Displacement,HIGH,14,70,0,Schedule visit + carry sample kit
+DOC037,MOL04,2025-06,Competitive Displacement,HIGH,10,10,0,Schedule visit immediately
+DOC004,MOL05,2025-03,Competitive Displacement,HIGH,40,88,2,Schedule visit + carry sample kit
+DOC024,MOL05,2025-03,Competitive Displacement,HIGH,3,3,1,Schedule visit immediately
+DOC018,MOL05,2025-03,Competitive Displacement,HIGH,20,20,3,Schedule visit immediately
+DOC012,MOL05,2025-03,Competitive Displacement,HIGH,13,13,1,Schedule visit immediately
+DOC005,MOL05,2025-03,Competitive Displacement,HIGH,13,13,1,Schedule visit immediately
+DOC046,MOL05,2025-03,Competitive Displacement,HIGH,9,9,1,Schedule visit immediately
+DOC045,MOL05,2025-04,Competitive Displacement,HIGH,14,70,0,Schedule visit + carry sample kit
+DOC047,MOL05,2025-05,Competitive Displacement,HIGH,11,11,0,Schedule visit immediately
+DOC003,MOL05,2025-05,Competitive Displacement,HIGH,0,0,1,Schedule visit immediately
+DOC020,MOL05,2025-05,Competitive Displacement,HIGH,9,9,1,Schedule visit immediately
+DOC008,MOL05,2025-06,Competitive Displacement,HIGH,0,0,0,Schedule visit immediately
+DOC048,MOL05,2025-06,Competitive Displacement,HIGH,13,13,1,Schedule visit immediately
+DOC036,MOL05,2025-06,Competitive Displacement,HIGH,4,70,2,Schedule visit + carry sample kit
+DOC041,MOL01,2025-02,Rank Collapse,HIGH,19,32,1,Monitor
+DOC003,MOL01,2025-02,Rank Collapse,HIGH,0,0,1,Monitor
+DOC020,MOL01,2025-02,Rank Collapse,HIGH,9,9,1,Monitor
+DOC030,MOL01,2025-02,Rank Collapse,HIGH,5,32,1,Monitor
+DOC033,MOL01,2025-02,Rank Collapse,HIGH,8,8,0,Monitor
+DOC027,MOL01,2025-02,Rank Collapse,HIGH,1,16,1,Monitor
+DOC043,MOL01,2025-02,Rank Collapse,HIGH,24,24,0,Monitor
+DOC005,MOL01,2025-02,Rank Collapse,HIGH,13,13,1,Monitor
+DOC031,MOL01,2025-02,Rank Collapse,HIGH,6,6,1,Monitor
+DOC045,MOL01,2025-03,Rank Collapse,HIGH,14,70,0,Monitor
+DOC028,MOL01,2025-03,Rank Collapse,HIGH,72,76,2,Monitor
+DOC050,MOL01,2025-03,Rank Collapse,HIGH,23,23,2,Monitor
+DOC046,MOL01,2025-03,Rank Collapse,HIGH,9,9,1,Monitor
+DOC017,MOL01,2025-03,Rank Collapse,HIGH,11,11,1,Monitor
+DOC002,MOL01,2025-03,Rank Collapse,HIGH,6,6,2,Monitor
+DOC029,MOL01,2025-04,Rank Collapse,HIGH,47,47,0,Monitor
+DOC038,MOL01,2025-04,Rank Collapse,HIGH,96,96,1,Monitor
+DOC049,MOL01,2025-04,Rank Collapse,HIGH,11,31,1,Monitor
+DOC035,MOL01,2025-04,Rank Collapse,HIGH,61,69,1,Monitor
+DOC042,MOL01,2025-04,Rank Collapse,HIGH,5,16,2,Monitor
+DOC010,MOL01,2025-04,Rank Collapse,HIGH,0,64,0,Monitor
+DOC023,MOL01,2025-04,Rank Collapse,HIGH,8,11,2,Monitor
+DOC015,MOL01,2025-04,Rank Collapse,HIGH,0,0,1,Monitor
+DOC001,MOL01,2025-04,Rank Collapse,HIGH,12,41,0,Monitor
+DOC026,MOL01,2025-04,Rank Collapse,HIGH,10,10,1,Monitor
+DOC006,MOL01,2025-04,Rank Collapse,HIGH,1,1,1,Monitor
+DOC034,MOL01,2025-04,Rank Collapse,HIGH,6,6,1,Monitor
+DOC022,MOL01,2025-04,Rank Collapse,HIGH,0,0,1,Monitor
+DOC028,MOL01,2025-04,Rank Collapse,HIGH,72,76,2,Monitor
+DOC016,MOL01,2025-05,Rank Collapse,HIGH,21,21,1,Monitor
+DOC011,MOL01,2025-05,Rank Collapse,HIGH,11,41,0,Monitor
+DOC041,MOL01,2025-05,Rank Collapse,HIGH,19,32,1,Monitor
+DOC043,MOL01,2025-05,Rank Collapse,HIGH,24,24,0,Monitor
+DOC029,MOL01,2025-05,Rank Collapse,HIGH,47,47,0,Monitor
+DOC030,MOL01,2025-05,Rank Collapse,HIGH,5,32,1,Monitor
+DOC035,MOL01,2025-05,Rank Collapse,HIGH,61,69,1,Monitor
+DOC032,MOL01,2025-06,Rank Collapse,HIGH,14,14,1,Monitor
+DOC045,MOL01,2025-06,Rank Collapse,HIGH,14,70,0,Monitor
+DOC010,MOL01,2025-06,Rank Collapse,HIGH,0,64,0,Monitor
+DOC023,MOL01,2025-06,Rank Collapse,HIGH,8,11,2,Monitor
+DOC036,MOL01,2025-06,Rank Collapse,HIGH,4,70,2,Monitor
+DOC026,MOL01,2025-06,Rank Collapse,HIGH,10,10,1,Monitor
+DOC028,MOL01,2025-06,Rank Collapse,HIGH,72,76,2,Monitor
+DOC021,MOL01,2025-06,Rank Collapse,HIGH,14,112,2,Monitor
+DOC046,MOL02,2025-02,Rank Collapse,HIGH,9,9,1,Monitor
+DOC020,MOL02,2025-02,Rank Collapse,HIGH,9,9,1,Monitor
+DOC009,MOL02,2025-02,Rank Collapse,HIGH,44,74,2,Monitor
+DOC003,MOL02,2025-02,Rank Collapse,HIGH,0,0,1,Monitor
+DOC026,MOL02,2025-02,Rank Collapse,HIGH,10,10,1,Monitor
+DOC042,MOL02,2025-02,Rank Collapse,HIGH,5,16,2,Monitor
+DOC032,MOL02,2025-02,Rank Collapse,HIGH,14,14,1,Monitor
+DOC021,MOL02,2025-02,Rank Collapse,HIGH,14,112,2,Monitor
+DOC034,MOL02,2025-02,Rank Collapse,HIGH,6,6,1,Monitor
+DOC006,MOL02,2025-02,Rank Collapse,HIGH,1,1,1,Monitor
+DOC005,MOL02,2025-02,Rank Collapse,HIGH,13,13,1,Monitor
+DOC023,MOL02,2025-02,Rank Collapse,HIGH,8,11,2,Monitor
+DOC044,MOL02,2025-02,Rank Collapse,HIGH,26,26,2,Monitor
+DOC048,MOL02,2025-03,Rank Collapse,HIGH,13,13,1,Monitor
+DOC031,MOL02,2025-03,Rank Collapse,HIGH,6,6,1,Monitor
+DOC016,MOL02,2025-03,Rank Collapse,HIGH,21,21,1,Monitor
+DOC013,MOL02,2025-03,Rank Collapse,HIGH,21,29,2,Monitor
+DOC036,MOL02,2025-03,Rank Collapse,HIGH,4,70,2,Monitor
+DOC004,MOL02,2025-03,Rank Collapse,HIGH,40,88,2,Monitor
+DOC007,MOL02,2025-03,Rank Collapse,HIGH,7,67,1,Monitor
+DOC020,MOL02,2025-03,Rank Collapse,HIGH,9,9,1,Monitor
+DOC024,MOL02,2025-03,Rank Collapse,HIGH,3,3,1,Monitor
+DOC029,MOL02,2025-04,Rank Collapse,HIGH,47,47,0,Monitor
+DOC001,MOL02,2025-04,Rank Collapse,HIGH,12,41,0,Monitor
+DOC043,MOL02,2025-04,Rank Collapse,HIGH,24,24,0,Monitor
+DOC046,MOL02,2025-04,Rank Collapse,HIGH,9,9,1,Monitor
+DOC022,MOL02,2025-04,Rank Collapse,HIGH,0,0,1,Monitor
+DOC034,MOL02,2025-04,Rank Collapse,HIGH,6,6,1,Monitor
+DOC006,MOL02,2025-04,Rank Collapse,HIGH,1,1,1,Monitor
+DOC047,MOL02,2025-04,Rank Collapse,HIGH,11,11,0,Monitor
+DOC049,MOL02,2025-04,Rank Collapse,HIGH,11,31,1,Monitor
+DOC002,MOL02,2025-04,Rank Collapse,HIGH,6,6,2,Monitor
+DOC010,MOL02,2025-04,Rank Collapse,HIGH,0,64,0,Monitor
+DOC037,MOL02,2025-04,Rank Collapse,HIGH,10,10,0,Monitor
+DOC027,MOL02,2025-04,Rank Collapse,HIGH,1,16,1,Monitor
+DOC039,MOL02,2025-05,Rank Collapse,HIGH,2,12,1,Monitor
+DOC012,MOL02,2025-05,Rank Collapse,HIGH,13,13,1,Monitor
+DOC041,MOL02,2025-05,Rank Collapse,HIGH,19,32,1,Monitor
+DOC005,MOL02,2025-05,Rank Collapse,HIGH,13,13,1,Monitor
+DOC014,MOL02,2025-05,Rank Collapse,HIGH,9,11,0,Monitor
+DOC030,MOL02,2025-05,Rank Collapse,HIGH,5,32,1,Monitor
+DOC022,MOL02,2025-05,Rank Collapse,HIGH,0,0,1,Monitor
+DOC048,MOL02,2025-05,Rank Collapse,HIGH,13,13,1,Monitor
+DOC023,MOL02,2025-05,Rank Collapse,HIGH,8,11,2,Monitor
+DOC046,MOL02,2025-05,Rank Collapse,HIGH,9,9,1,Monitor
+DOC038,MOL02,2025-05,Rank Collapse,HIGH,96,96,1,Monitor
+DOC043,MOL02,2025-05,Rank Collapse,HIGH,24,24,0,Monitor
+DOC029,MOL02,2025-05,Rank Collapse,HIGH,47,47,0,Monitor
+DOC042,MOL02,2025-06,Rank Collapse,HIGH,5,16,2,Monitor
+DOC039,MOL02,2025-06,Rank Collapse,HIGH,2,12,1,Monitor
+DOC021,MOL02,2025-06,Rank Collapse,HIGH,14,112,2,Monitor
+DOC003,MOL02,2025-06,Rank Collapse,HIGH,0,0,1,Monitor
+DOC009,MOL02,2025-06,Rank Collapse,HIGH,44,74,2,Monitor
+DOC026,MOL02,2025-06,Rank Collapse,HIGH,10,10,1,Monitor
+DOC044,MOL02,2025-06,Rank Collapse,HIGH,26,26,2,Monitor
+DOC035,MOL02,2025-06,Rank Collapse,HIGH,61,69,1,Monitor
+DOC019,MOL02,2025-06,Rank Collapse,HIGH,31,42,0,Monitor
+DOC021,MOL03,2025-02,Rank Collapse,HIGH,14,112,2,Monitor
+DOC020,MOL03,2025-02,Rank Collapse,HIGH,9,9,1,Monitor
+DOC008,MOL03,2025-02,Rank Collapse,HIGH,0,0,0,Monitor
+DOC007,MOL03,2025-02,Rank Collapse,HIGH,7,67,1,Monitor
+DOC010,MOL03,2025-02,Rank Collapse,HIGH,0,64,0,Monitor
+DOC048,MOL03,2025-02,Rank Collapse,HIGH,13,13,1,Monitor
+DOC005,MOL03,2025-02,Rank Collapse,HIGH,13,13,1,Monitor
+DOC037,MOL03,2025-03,Rank Collapse,HIGH,10,10,0,Monitor
+DOC021,MOL03,2025-03,Rank Collapse,HIGH,14,112,2,Monitor
+DOC011,MOL03,2025-03,Rank Collapse,HIGH,11,41,0,Monitor
+DOC031,MOL03,2025-03,Rank Collapse,HIGH,6,6,1,Monitor
+DOC028,MOL03,2025-03,Rank Collapse,HIGH,72,76,2,Monitor
+DOC006,MOL03,2025-03,Rank Collapse,HIGH,1,1,1,Monitor
+DOC023,MOL03,2025-03,Rank Collapse,HIGH,8,11,2,Monitor
+DOC034,MOL03,2025-03,Rank Collapse,HIGH,6,6,1,Monitor
+DOC004,MOL03,2025-03,Rank Collapse,HIGH,40,88,2,Monitor
+DOC003,MOL03,2025-03,Rank Collapse,HIGH,0,0,1,Monitor
+DOC026,MOL03,2025-03,Rank Collapse,HIGH,10,10,1,Monitor
+DOC008,MOL03,2025-04,Rank Collapse,HIGH,0,0,0,Monitor
+DOC009,MOL03,2025-04,Rank Collapse,HIGH,44,74,2,Monitor
+DOC012,MOL03,2025-04,Rank Collapse,HIGH,13,13,1,Monitor
+DOC041,MOL03,2025-04,Rank Collapse,HIGH,19,32,1,Monitor
+DOC046,MOL03,2025-04,Rank Collapse,HIGH,9,9,1,Monitor
+DOC014,MOL03,2025-04,Rank Collapse,HIGH,9,11,0,Monitor
+DOC021,MOL03,2025-04,Rank Collapse,HIGH,14,112,2,Monitor
+DOC011,MOL03,2025-04,Rank Collapse,HIGH,11,41,0,Monitor
+DOC036,MOL03,2025-04,Rank Collapse,HIGH,4,70,2,Monitor
+DOC032,MOL03,2025-04,Rank Collapse,HIGH,14,14,1,Monitor
+DOC042,MOL03,2025-04,Rank Collapse,HIGH,5,16,2,Monitor
+DOC002,MOL03,2025-04,Rank Collapse,HIGH,6,6,2,Monitor
+DOC043,MOL03,2025-05,Rank Collapse,HIGH,24,24,0,Monitor
+DOC031,MOL03,2025-05,Rank Collapse,HIGH,6,6,1,Monitor
+DOC009,MOL03,2025-05,Rank Collapse,HIGH,44,74,2,Monitor
+DOC025,MOL03,2025-05,Rank Collapse,HIGH,2,2,1,Monitor
+DOC027,MOL03,2025-05,Rank Collapse,HIGH,1,16,1,Monitor
+DOC044,MOL03,2025-05,Rank Collapse,HIGH,26,26,2,Monitor
+DOC020,MOL03,2025-05,Rank Collapse,HIGH,9,9,1,Monitor
+DOC033,MOL03,2025-05,Rank Collapse,HIGH,8,8,0,Monitor
+DOC040,MOL03,2025-05,Rank Collapse,HIGH,18,18,1,Monitor
+DOC013,MOL03,2025-05,Rank Collapse,HIGH,21,29,2,Monitor
+DOC045,MOL03,2025-05,Rank Collapse,HIGH,14,70,0,Monitor
+DOC018,MOL03,2025-05,Rank Collapse,HIGH,20,20,3,Escalate to area manager + CME invite
+DOC030,MOL03,2025-05,Rank Collapse,HIGH,5,32,1,Monitor
+DOC015,MOL03,2025-05,Rank Collapse,HIGH,0,0,1,Monitor
+DOC022,MOL03,2025-05,Rank Collapse,HIGH,0,0,1,Monitor
+DOC048,MOL03,2025-05,Rank Collapse,HIGH,13,13,1,Monitor
+DOC010,MOL03,2025-05,Rank Collapse,HIGH,0,64,0,Monitor
+DOC041,MOL03,2025-06,Rank Collapse,HIGH,19,32,1,Monitor
+DOC012,MOL03,2025-06,Rank Collapse,HIGH,13,13,1,Monitor
+DOC006,MOL03,2025-06,Rank Collapse,HIGH,1,1,1,Monitor
+DOC008,MOL03,2025-06,Rank Collapse,HIGH,0,0,0,Monitor
+DOC009,MOL03,2025-06,Rank Collapse,HIGH,44,74,2,Monitor
+DOC035,MOL03,2025-06,Rank Collapse,HIGH,61,69,1,Monitor
+DOC029,MOL03,2025-06,Rank Collapse,HIGH,47,47,0,Monitor
+DOC002,MOL03,2025-06,Rank Collapse,HIGH,6,6,2,Monitor
+DOC020,MOL04,2025-02,Rank Collapse,HIGH,9,9,1,Monitor
+DOC049,MOL04,2025-02,Rank Collapse,HIGH,11,31,1,Monitor
+DOC031,MOL04,2025-02,Rank Collapse,HIGH,6,6,1,Monitor
+DOC018,MOL04,2025-02,Rank Collapse,HIGH,20,20,3,Escalate to area manager + CME invite
+DOC004,MOL04,2025-02,Rank Collapse,HIGH,40,88,2,Monitor
+DOC011,MOL04,2025-02,Rank Collapse,HIGH,11,41,0,Monitor
+DOC047,MOL04,2025-02,Rank Collapse,HIGH,11,11,0,Monitor
+DOC014,MOL04,2025-02,Rank Collapse,HIGH,9,11,0,Monitor
+DOC035,MOL04,2025-03,Rank Collapse,HIGH,61,69,1,Monitor
+DOC025,MOL04,2025-03,Rank Collapse,HIGH,2,2,1,Monitor
+DOC038,MOL04,2025-03,Rank Collapse,HIGH,96,96,1,Monitor
+DOC039,MOL04,2025-03,Rank Collapse,HIGH,2,12,1,Monitor
+DOC001,MOL04,2025-03,Rank Collapse,HIGH,12,41,0,Monitor
+DOC019,MOL04,2025-03,Rank Collapse,HIGH,31,42,0,Monitor
+DOC036,MOL04,2025-03,Rank Collapse,HIGH,4,70,2,Monitor
+DOC005,MOL04,2025-03,Rank Collapse,HIGH,13,13,1,Monitor
+DOC040,MOL04,2025-03,Rank Collapse,HIGH,18,18,1,Monitor
+DOC027,MOL04,2025-03,Rank Collapse,HIGH,1,16,1,Monitor
+DOC013,MOL04,2025-03,Rank Collapse,HIGH,21,29,2,Monitor
+DOC044,MOL04,2025-03,Rank Collapse,HIGH,26,26,2,Monitor
+DOC003,MOL04,2025-03,Rank Collapse,HIGH,0,0,1,Monitor
+DOC026,MOL04,2025-03,Rank Collapse,HIGH,10,10,1,Monitor
+DOC008,MOL04,2025-04,Rank Collapse,HIGH,0,0,0,Monitor
+DOC017,MOL04,2025-04,Rank Collapse,HIGH,11,11,1,Monitor
+DOC034,MOL04,2025-04,Rank Collapse,HIGH,6,6,1,Monitor
+DOC037,MOL04,2025-04,Rank Collapse,HIGH,10,10,0,Monitor
+DOC045,MOL04,2025-04,Rank Collapse,HIGH,14,70,0,Monitor
+DOC050,MOL04,2025-04,Rank Collapse,HIGH,23,23,2,Monitor
+DOC022,MOL04,2025-04,Rank Collapse,HIGH,0,0,1,Monitor
+DOC047,MOL04,2025-04,Rank Collapse,HIGH,11,11,0,Monitor
+DOC018,MOL04,2025-04,Rank Collapse,HIGH,20,20,3,Escalate to area manager + CME invite
+DOC028,MOL04,2025-05,Rank Collapse,HIGH,72,76,2,Monitor
+DOC027,MOL04,2025-05,Rank Collapse,HIGH,1,16,1,Monitor
+DOC013,MOL04,2025-05,Rank Collapse,HIGH,21,29,2,Monitor
+DOC001,MOL04,2025-05,Rank Collapse,HIGH,12,41,0,Monitor
+DOC014,MOL04,2025-05,Rank Collapse,HIGH,9,11,0,Monitor
+DOC020,MOL04,2025-05,Rank Collapse,HIGH,9,9,1,Monitor
+DOC011,MOL04,2025-05,Rank Collapse,HIGH,11,41,0,Monitor
+DOC005,MOL04,2025-05,Rank Collapse,HIGH,13,13,1,Monitor
+DOC010,MOL04,2025-05,Rank Collapse,HIGH,0,64,0,Monitor
+DOC040,MOL04,2025-05,Rank Collapse,HIGH,18,18,1,Monitor
+DOC031,MOL04,2025-05,Rank Collapse,HIGH,6,6,1,Monitor
+DOC022,MOL04,2025-05,Rank Collapse,HIGH,0,0,1,Monitor
+DOC034,MOL04,2025-05,Rank Collapse,HIGH,6,6,1,Monitor
+DOC002,MOL04,2025-06,Rank Collapse,HIGH,6,6,2,Monitor
+DOC050,MOL04,2025-06,Rank Collapse,HIGH,23,23,2,Monitor
+DOC025,MOL04,2025-06,Rank Collapse,HIGH,2,2,1,Monitor
+DOC049,MOL04,2025-06,Rank Collapse,HIGH,11,31,1,Monitor
+DOC017,MOL04,2025-06,Rank Collapse,HIGH,11,11,1,Monitor
+DOC008,MOL04,2025-06,Rank Collapse,HIGH,0,0,0,Monitor
+DOC042,MOL04,2025-06,Rank Collapse,HIGH,5,16,2,Monitor
+DOC016,MOL04,2025-06,Rank Collapse,HIGH,21,21,1,Monitor
+DOC045,MOL04,2025-06,Rank Collapse,HIGH,14,70,0,Monitor
+DOC037,MOL04,2025-06,Rank Collapse,HIGH,10,10,0,Monitor
+DOC004,MOL05,2025-02,Rank Collapse,HIGH,40,88,2,Monitor
+DOC024,MOL05,2025-02,Rank Collapse,HIGH,3,3,1,Monitor
+DOC008,MOL05,2025-02,Rank Collapse,HIGH,0,0,0,Monitor
+DOC019,MOL05,2025-02,Rank Collapse,HIGH,31,42,0,Monitor
+DOC046,MOL05,2025-02,Rank Collapse,HIGH,9,9,1,Monitor
+DOC003,MOL05,2025-02,Rank Collapse,HIGH,0,0,1,Monitor
+DOC012,MOL05,2025-02,Rank Collapse,HIGH,13,13,1,Monitor
+DOC029,MOL05,2025-02,Rank Collapse,HIGH,47,47,0,Monitor
+DOC036,MOL05,2025-02,Rank Collapse,HIGH,4,70,2,Monitor
+DOC035,MOL05,2025-03,Rank Collapse,HIGH,61,69,1,Monitor
+DOC044,MOL05,2025-03,Rank Collapse,HIGH,26,26,2,Monitor
+DOC037,MOL05,2025-03,Rank Collapse,HIGH,10,10,0,Monitor
+DOC045,MOL05,2025-03,Rank Collapse,HIGH,14,70,0,Monitor
+DOC017,MOL05,2025-03,Rank Collapse,HIGH,11,11,1,Monitor
+DOC005,MOL05,2025-03,Rank Collapse,HIGH,13,13,1,Monitor
+DOC039,MOL05,2025-03,Rank Collapse,HIGH,2,12,1,Monitor
+DOC046,MOL05,2025-03,Rank Collapse,HIGH,9,9,1,Monitor
+DOC002,MOL05,2025-04,Rank Collapse,HIGH,6,6,2,Monitor
+DOC048,MOL05,2025-04,Rank Collapse,HIGH,13,13,1,Monitor
+DOC004,MOL05,2025-04,Rank Collapse,HIGH,40,88,2,Monitor
+DOC047,MOL05,2025-04,Rank Collapse,HIGH,11,11,0,Monitor
+DOC007,MOL05,2025-04,Rank Collapse,HIGH,7,67,1,Monitor
+DOC023,MOL05,2025-04,Rank Collapse,HIGH,8,11,2,Monitor
+DOC038,MOL05,2025-04,Rank Collapse,HIGH,96,96,1,Monitor
+DOC037,MOL05,2025-04,Rank Collapse,HIGH,10,10,0,Monitor
+DOC018,MOL05,2025-04,Rank Collapse,HIGH,20,20,3,Escalate to area manager + CME invite
+DOC020,MOL05,2025-04,Rank Collapse,HIGH,9,9,1,Monitor
+DOC003,MOL05,2025-04,Rank Collapse,HIGH,0,0,1,Monitor
+DOC045,MOL05,2025-04,Rank Collapse,HIGH,14,70,0,Monitor
+DOC033,MOL05,2025-04,Rank Collapse,HIGH,8,8,0,Monitor
+DOC006,MOL05,2025-04,Rank Collapse,HIGH,1,1,1,Monitor
+DOC034,MOL05,2025-04,Rank Collapse,HIGH,6,6,1,Monitor
+DOC031,MOL05,2025-05,Rank Collapse,HIGH,6,6,1,Monitor
+DOC017,MOL05,2025-05,Rank Collapse,HIGH,11,11,1,Monitor
+DOC008,MOL05,2025-05,Rank Collapse,HIGH,0,0,0,Monitor
+DOC014,MOL05,2025-05,Rank Collapse,HIGH,9,11,0,Monitor
+DOC048,MOL05,2025-05,Rank Collapse,HIGH,13,13,1,Monitor
+DOC036,MOL05,2025-05,Rank Collapse,HIGH,4,70,2,Monitor
+DOC012,MOL05,2025-05,Rank Collapse,HIGH,13,13,1,Monitor
+DOC005,MOL05,2025-05,Rank Collapse,HIGH,13,13,1,Monitor
+DOC007,MOL05,2025-05,Rank Collapse,HIGH,7,67,1,Monitor
+DOC032,MOL05,2025-05,Rank Collapse,HIGH,14,14,1,Monitor
+DOC047,MOL05,2025-05,Rank Collapse,HIGH,11,11,0,Monitor
+DOC024,MOL05,2025-05,Rank Collapse,HIGH,3,3,1,Monitor
+DOC043,MOL05,2025-05,Rank Collapse,HIGH,24,24,0,Monitor
+DOC041,MOL05,2025-05,Rank Collapse,HIGH,19,32,1,Monitor
+DOC018,MOL05,2025-05,Rank Collapse,HIGH,20,20,3,Escalate to area manager + CME invite
+DOC020,MOL05,2025-05,Rank Collapse,HIGH,9,9,1,Monitor
+DOC046,MOL05,2025-06,Rank Collapse,HIGH,9,9,1,Monitor
+DOC019,MOL05,2025-06,Rank Collapse,HIGH,31,42,0,Monitor
+DOC044,MOL05,2025-06,Rank Collapse,HIGH,26,26,2,Monitor
+DOC029,MOL05,2025-06,Rank Collapse,HIGH,47,47,0,Monitor
+DOC038,MOL05,2025-06,Rank Collapse,HIGH,96,96,1,Monitor
+DOC036,MOL05,2025-06,Rank Collapse,HIGH,4,70,2,Monitor
+DOC050,MOL05,2025-06,Rank Collapse,HIGH,23,23,2,Monitor
+DOC025,MOL05,2025-06,Rank Collapse,HIGH,2,2,1,Monitor
+DOC030,MOL05,2025-06,Rank Collapse,HIGH,5,32,1,Monitor
+DOC027,MOL05,2025-06,Rank Collapse,HIGH,1,16,1,Monitor
+DOC010,MOL05,2025-06,Rank Collapse,HIGH,0,64,0,Monitor
+DOC042,MOL05,2025-06,Rank Collapse,HIGH,5,16,2,Monitor
+DOC002,MOL01,2025-01,New Prescriber,LOW,6,6,2,Send welcome sample kit within 7 days
+DOC020,MOL01,2025-01,New Prescriber,LOW,9,9,1,Send welcome sample kit within 7 days
+DOC043,MOL01,2025-01,New Prescriber,LOW,24,24,0,Send welcome sample kit within 7 days
+DOC005,MOL01,2025-01,New Prescriber,LOW,13,13,1,Send welcome sample kit within 7 days
+DOC041,MOL01,2025-01,New Prescriber,LOW,19,32,1,Send welcome sample kit within 7 days
+DOC038,MOL01,2025-01,New Prescriber,LOW,96,96,1,Send welcome sample kit within 7 days
+DOC016,MOL01,2025-01,New Prescriber,LOW,21,21,1,Send welcome sample kit within 7 days
+DOC003,MOL01,2025-01,New Prescriber,LOW,0,0,1,Send welcome sample kit within 7 days
+DOC026,MOL01,2025-01,New Prescriber,LOW,10,10,1,Send welcome sample kit within 7 days
+DOC045,MOL01,2025-01,New Prescriber,LOW,14,70,0,Send welcome sample kit within 7 days
+DOC023,MOL01,2025-01,New Prescriber,LOW,8,11,2,Send welcome sample kit within 7 days
+DOC032,MOL01,2025-01,New Prescriber,LOW,14,14,1,Send welcome sample kit within 7 days
+DOC030,MOL01,2025-01,New Prescriber,LOW,5,32,1,Send welcome sample kit within 7 days
+DOC017,MOL01,2025-01,New Prescriber,LOW,11,11,1,Send welcome sample kit within 7 days
+DOC029,MOL01,2025-01,New Prescriber,LOW,47,47,0,Send welcome sample kit within 7 days
+DOC031,MOL01,2025-01,New Prescriber,LOW,6,6,1,Send welcome sample kit within 7 days
+DOC049,MOL01,2025-01,New Prescriber,LOW,11,31,1,Send welcome sample kit within 7 days
+DOC033,MOL01,2025-01,New Prescriber,LOW,8,8,0,Send welcome sample kit within 7 days
+DOC015,MOL01,2025-01,New Prescriber,LOW,0,0,1,Send welcome sample kit within 7 days
+DOC046,MOL01,2025-01,New Prescriber,LOW,9,9,1,Send welcome sample kit within 7 days
+DOC001,MOL01,2025-01,New Prescriber,LOW,12,41,0,Send welcome sample kit within 7 days
+DOC027,MOL01,2025-01,New Prescriber,LOW,1,16,1,Send welcome sample kit within 7 days
+DOC010,MOL01,2025-01,New Prescriber,LOW,0,64,0,Send welcome sample kit within 7 days
+DOC028,MOL01,2025-01,New Prescriber,LOW,72,76,2,Send welcome sample kit within 7 days
+DOC007,MOL01,2025-01,New Prescriber,LOW,7,67,1,Send welcome sample kit within 7 days
+DOC050,MOL01,2025-01,New Prescriber,LOW,23,23,2,Send welcome sample kit within 7 days
+DOC042,MOL01,2025-01,New Prescriber,LOW,5,16,2,Send welcome sample kit within 7 days
+DOC014,MOL01,2025-01,New Prescriber,LOW,9,11,0,Send welcome sample kit within 7 days
+DOC025,MOL01,2025-01,New Prescriber,LOW,2,2,1,Send welcome sample kit within 7 days
+DOC035,MOL01,2025-02,New Prescriber,LOW,61,69,1,Send welcome sample kit within 7 days
+DOC021,MOL01,2025-02,New Prescriber,LOW,14,112,2,Send welcome sample kit within 7 days
+DOC006,MOL01,2025-02,New Prescriber,LOW,1,1,1,Send welcome sample kit within 7 days
+DOC034,MOL01,2025-02,New Prescriber,LOW,6,6,1,Send welcome sample kit within 7 days
+DOC022,MOL01,2025-02,New Prescriber,LOW,0,0,1,Send welcome sample kit within 7 days
+DOC012,MOL01,2025-02,New Prescriber,LOW,13,13,1,Send welcome sample kit within 7 days
+DOC018,MOL01,2025-02,New Prescriber,LOW,20,20,3,Escalate to area manager + CME invite
+DOC024,MOL01,2025-02,New Prescriber,LOW,3,3,1,Send welcome sample kit within 7 days
+DOC039,MOL01,2025-02,New Prescriber,LOW,2,12,1,Send welcome sample kit within 7 days
+DOC009,MOL01,2025-03,New Prescriber,LOW,44,74,2,Send welcome sample kit within 7 days
+DOC048,MOL01,2025-04,New Prescriber,LOW,13,13,1,Send welcome sample kit within 7 days
+DOC013,MOL01,2025-04,New Prescriber,LOW,21,29,2,Send welcome sample kit within 7 days
+DOC004,MOL01,2025-04,New Prescriber,LOW,40,88,2,Send welcome sample kit within 7 days
+DOC047,MOL01,2025-05,New Prescriber,LOW,11,11,0,Send welcome sample kit within 7 days
+DOC046,MOL02,2025-01,New Prescriber,LOW,9,9,1,Send welcome sample kit within 7 days
+DOC004,MOL02,2025-01,New Prescriber,LOW,40,88,2,Send welcome sample kit within 7 days
+DOC031,MOL02,2025-01,New Prescriber,LOW,6,6,1,Send welcome sample kit within 7 days
+DOC030,MOL02,2025-01,New Prescriber,LOW,5,32,1,Send welcome sample kit within 7 days
+DOC020,MOL02,2025-01,New Prescriber,LOW,9,9,1,Send welcome sample kit within 7 days
+DOC050,MOL02,2025-01,New Prescriber,LOW,23,23,2,Send welcome sample kit within 7 days
+DOC032,MOL02,2025-01,New Prescriber,LOW,14,14,1,Send welcome sample kit within 7 days
+DOC042,MOL02,2025-01,New Prescriber,LOW,5,16,2,Send welcome sample kit within 7 days
+DOC039,MOL02,2025-01,New Prescriber,LOW,2,12,1,Send welcome sample kit within 7 days
+DOC044,MOL02,2025-01,New Prescriber,LOW,26,26,2,Send welcome sample kit within 7 days
+DOC009,MOL02,2025-01,New Prescriber,LOW,44,74,2,Send welcome sample kit within 7 days
+DOC048,MOL02,2025-01,New Prescriber,LOW,13,13,1,Send welcome sample kit within 7 days
+DOC017,MOL02,2025-01,New Prescriber,LOW,11,11,1,Send welcome sample kit within 7 days
+DOC026,MOL02,2025-01,New Prescriber,LOW,10,10,1,Send welcome sample kit within 7 days
+DOC003,MOL02,2025-01,New Prescriber,LOW,0,0,1,Send welcome sample kit within 7 days
+DOC013,MOL02,2025-01,New Prescriber,LOW,21,29,2,Send welcome sample kit within 7 days
+DOC021,MOL02,2025-01,New Prescriber,LOW,14,112,2,Send welcome sample kit within 7 days
+DOC022,MOL02,2025-01,New Prescriber,LOW,0,0,1,Send welcome sample kit within 7 days
+DOC007,MOL02,2025-01,New Prescriber,LOW,7,67,1,Send welcome sample kit within 7 days
+DOC034,MOL02,2025-01,New Prescriber,LOW,6,6,1,Send welcome sample kit within 7 days
+DOC015,MOL02,2025-01,New Prescriber,LOW,0,0,1,Send welcome sample kit within 7 days
+DOC016,MOL02,2025-01,New Prescriber,LOW,21,21,1,Send welcome sample kit within 7 days
+DOC006,MOL02,2025-01,New Prescriber,LOW,1,1,1,Send welcome sample kit within 7 days
+DOC008,MOL02,2025-01,New Prescriber,LOW,0,0,0,Send welcome sample kit within 7 days
+DOC005,MOL02,2025-01,New Prescriber,LOW,13,13,1,Send welcome sample kit within 7 days
+DOC023,MOL02,2025-01,New Prescriber,LOW,8,11,2,Send welcome sample kit within 7 days
+DOC036,MOL02,2025-01,New Prescriber,LOW,4,70,2,Send welcome sample kit within 7 days
+DOC035,MOL02,2025-01,New Prescriber,LOW,61,69,1,Send welcome sample kit within 7 days
+DOC047,MOL02,2025-01,New Prescriber,LOW,11,11,0,Send welcome sample kit within 7 days
+DOC011,MOL02,2025-01,New Prescriber,LOW,11,41,0,Send welcome sample kit within 7 days
+DOC025,MOL02,2025-01,New Prescriber,LOW,2,2,1,Send welcome sample kit within 7 days
+DOC038,MOL02,2025-01,New Prescriber,LOW,96,96,1,Send welcome sample kit within 7 days
+DOC002,MOL02,2025-02,New Prescriber,LOW,6,6,2,Send welcome sample kit within 7 days
+DOC043,MOL02,2025-02,New Prescriber,LOW,24,24,0,Send welcome sample kit within 7 days
+DOC010,MOL02,2025-02,New Prescriber,LOW,0,64,0,Send welcome sample kit within 7 days
+DOC001,MOL02,2025-02,New Prescriber,LOW,12,41,0,Send welcome sample kit within 7 days
+DOC027,MOL02,2025-02,New Prescriber,LOW,1,16,1,Send welcome sample kit within 7 days
+DOC012,MOL02,2025-02,New Prescriber,LOW,13,13,1,Send welcome sample kit within 7 days
+DOC041,MOL02,2025-02,New Prescriber,LOW,19,32,1,Send welcome sample kit within 7 days
+DOC024,MOL02,2025-02,New Prescriber,LOW,3,3,1,Send welcome sample kit within 7 days
+DOC037,MOL02,2025-02,New Prescriber,LOW,10,10,0,Send welcome sample kit within 7 days
+DOC029,MOL02,2025-03,New Prescriber,LOW,47,47,0,Send welcome sample kit within 7 days
+DOC049,MOL02,2025-03,New Prescriber,LOW,11,31,1,Send welcome sample kit within 7 days
+DOC019,MOL02,2025-03,New Prescriber,LOW,31,42,0,Send welcome sample kit within 7 days
+DOC033,MOL02,2025-04,New Prescriber,LOW,8,8,0,Send welcome sample kit within 7 days
+DOC018,MOL02,2025-05,New Prescriber,LOW,20,20,3,Escalate to area manager + CME invite
+DOC028,MOL02,2025-05,New Prescriber,LOW,72,76,2,Send welcome sample kit within 7 days
+DOC045,MOL02,2025-05,New Prescriber,LOW,14,70,0,Send welcome sample kit within 7 days
+DOC005,MOL03,2025-01,New Prescriber,LOW,13,13,1,Send welcome sample kit within 7 days
+DOC021,MOL03,2025-01,New Prescriber,LOW,14,112,2,Send welcome sample kit within 7 days
+DOC048,MOL03,2025-01,New Prescriber,LOW,13,13,1,Send welcome sample kit within 7 days
+DOC020,MOL03,2025-01,New Prescriber,LOW,9,9,1,Send welcome sample kit within 7 days
+DOC010,MOL03,2025-01,New Prescriber,LOW,0,64,0,Send welcome sample kit within 7 days
+DOC030,MOL03,2025-01,New Prescriber,LOW,5,32,1,Send welcome sample kit within 7 days
+DOC008,MOL03,2025-01,New Prescriber,LOW,0,0,0,Send welcome sample kit within 7 days
+DOC023,MOL03,2025-01,New Prescriber,LOW,8,11,2,Send welcome sample kit within 7 days
+DOC028,MOL03,2025-01,New Prescriber,LOW,72,76,2,Send welcome sample kit within 7 days
+DOC018,MOL03,2025-01,New Prescriber,LOW,20,20,3,Escalate to area manager + CME invite
+DOC003,MOL03,2025-01,New Prescriber,LOW,0,0,1,Send welcome sample kit within 7 days
+DOC026,MOL03,2025-01,New Prescriber,LOW,10,10,1,Send welcome sample kit within 7 days
+DOC031,MOL03,2025-01,New Prescriber,LOW,6,6,1,Send welcome sample kit within 7 days
+DOC004,MOL03,2025-01,New Prescriber,LOW,40,88,2,Send welcome sample kit within 7 days
+DOC038,MOL03,2025-01,New Prescriber,LOW,96,96,1,Send welcome sample kit within 7 days
+DOC047,MOL03,2025-01,New Prescriber,LOW,11,11,0,Send welcome sample kit within 7 days
+DOC011,MOL03,2025-01,New Prescriber,LOW,11,41,0,Send welcome sample kit within 7 days
+DOC043,MOL03,2025-01,New Prescriber,LOW,24,24,0,Send welcome sample kit within 7 days
+DOC014,MOL03,2025-01,New Prescriber,LOW,9,11,0,Send welcome sample kit within 7 days
+DOC033,MOL03,2025-01,New Prescriber,LOW,8,8,0,Send welcome sample kit within 7 days
+DOC012,MOL03,2025-01,New Prescriber,LOW,13,13,1,Send welcome sample kit within 7 days
+DOC019,MOL03,2025-01,New Prescriber,LOW,31,42,0,Send welcome sample kit within 7 days
+DOC041,MOL03,2025-01,New Prescriber,LOW,19,32,1,Send welcome sample kit within 7 days
+DOC007,MOL03,2025-01,New Prescriber,LOW,7,67,1,Send welcome sample kit within 7 days
+DOC037,MOL03,2025-01,New Prescriber,LOW,10,10,0,Send welcome sample kit within 7 days
+DOC024,MOL03,2025-01,New Prescriber,LOW,3,3,1,Send welcome sample kit within 7 days
+DOC009,MOL03,2025-01,New Prescriber,LOW,44,74,2,Send welcome sample kit within 7 days
+DOC044,MOL03,2025-01,New Prescriber,LOW,26,26,2,Send welcome sample kit within 7 days
+DOC006,MOL03,2025-01,New Prescriber,LOW,1,1,1,Send welcome sample kit within 7 days
+DOC040,MOL03,2025-01,New Prescriber,LOW,18,18,1,Send welcome sample kit within 7 days
+DOC036,MOL03,2025-01,New Prescriber,LOW,4,70,2,Send welcome sample kit within 7 days
+DOC027,MOL03,2025-01,New Prescriber,LOW,1,16,1,Send welcome sample kit within 7 days
+DOC035,MOL03,2025-01,New Prescriber,LOW,61,69,1,Send welcome sample kit within 7 days
+DOC015,MOL03,2025-01,New Prescriber,LOW,0,0,1,Send welcome sample kit within 7 days
+DOC050,MOL03,2025-01,New Prescriber,LOW,23,23,2,Send welcome sample kit within 7 days
+DOC016,MOL03,2025-01,New Prescriber,LOW,21,21,1,Send welcome sample kit within 7 days
+DOC025,MOL03,2025-01,New Prescriber,LOW,2,2,1,Send welcome sample kit within 7 days
+DOC022,MOL03,2025-02,New Prescriber,LOW,0,0,1,Send welcome sample kit within 7 days
+DOC034,MOL03,2025-02,New Prescriber,LOW,6,6,1,Send welcome sample kit within 7 days
+DOC045,MOL03,2025-02,New Prescriber,LOW,14,70,0,Send welcome sample kit within 7 days
+DOC002,MOL03,2025-02,New Prescriber,LOW,6,6,2,Send welcome sample kit within 7 days
+DOC001,MOL03,2025-02,New Prescriber,LOW,12,41,0,Send welcome sample kit within 7 days
+DOC013,MOL03,2025-02,New Prescriber,LOW,21,29,2,Send welcome sample kit within 7 days
+DOC046,MOL03,2025-02,New Prescriber,LOW,9,9,1,Send welcome sample kit within 7 days
+DOC032,MOL03,2025-03,New Prescriber,LOW,14,14,1,Send welcome sample kit within 7 days
+DOC039,MOL03,2025-03,New Prescriber,LOW,2,12,1,Send welcome sample kit within 7 days
+DOC042,MOL03,2025-03,New Prescriber,LOW,5,16,2,Send welcome sample kit within 7 days
+DOC004,MOL04,2025-01,New Prescriber,LOW,40,88,2,Send welcome sample kit within 7 days
+DOC014,MOL04,2025-01,New Prescriber,LOW,9,11,0,Send welcome sample kit within 7 days
+DOC008,MOL04,2025-01,New Prescriber,LOW,0,0,0,Send welcome sample kit within 7 days
+DOC020,MOL04,2025-01,New Prescriber,LOW,9,9,1,Send welcome sample kit within 7 days
+DOC031,MOL04,2025-01,New Prescriber,LOW,6,6,1,Send welcome sample kit within 7 days
+DOC011,MOL04,2025-01,New Prescriber,LOW,11,41,0,Send welcome sample kit within 7 days
+DOC035,MOL04,2025-01,New Prescriber,LOW,61,69,1,Send welcome sample kit within 7 days
+DOC049,MOL04,2025-01,New Prescriber,LOW,11,31,1,Send welcome sample kit within 7 days
+DOC027,MOL04,2025-01,New Prescriber,LOW,1,16,1,Send welcome sample kit within 7 days
+DOC019,MOL04,2025-01,New Prescriber,LOW,31,42,0,Send welcome sample kit within 7 days
+DOC013,MOL04,2025-01,New Prescriber,LOW,21,29,2,Send welcome sample kit within 7 days
+DOC017,MOL04,2025-01,New Prescriber,LOW,11,11,1,Send welcome sample kit within 7 days
+DOC025,MOL04,2025-01,New Prescriber,LOW,2,2,1,Send welcome sample kit within 7 days
+DOC001,MOL04,2025-01,New Prescriber,LOW,12,41,0,Send welcome sample kit within 7 days
+DOC040,MOL04,2025-01,New Prescriber,LOW,18,18,1,Send welcome sample kit within 7 days
+DOC009,MOL04,2025-01,New Prescriber,LOW,44,74,2,Send welcome sample kit within 7 days
+DOC018,MOL04,2025-01,New Prescriber,LOW,20,20,3,Escalate to area manager + CME invite
+DOC039,MOL04,2025-01,New Prescriber,LOW,2,12,1,Send welcome sample kit within 7 days
+DOC010,MOL04,2025-01,New Prescriber,LOW,0,64,0,Send welcome sample kit within 7 days
+DOC002,MOL04,2025-01,New Prescriber,LOW,6,6,2,Send welcome sample kit within 7 days
+DOC047,MOL04,2025-01,New Prescriber,LOW,11,11,0,Send welcome sample kit within 7 days
+DOC034,MOL04,2025-01,New Prescriber,LOW,6,6,1,Send welcome sample kit within 7 days
+DOC022,MOL04,2025-01,New Prescriber,LOW,0,0,1,Send welcome sample kit within 7 days
+DOC038,MOL04,2025-01,New Prescriber,LOW,96,96,1,Send welcome sample kit within 7 days
+DOC050,MOL04,2025-01,New Prescriber,LOW,23,23,2,Send welcome sample kit within 7 days
+DOC003,MOL04,2025-01,New Prescriber,LOW,0,0,1,Send welcome sample kit within 7 days
+DOC026,MOL04,2025-01,New Prescriber,LOW,10,10,1,Send welcome sample kit within 7 days
+DOC036,MOL04,2025-01,New Prescriber,LOW,4,70,2,Send welcome sample kit within 7 days
+DOC021,MOL04,2025-01,New Prescriber,LOW,14,112,2,Send welcome sample kit within 7 days
+DOC015,MOL04,2025-01,New Prescriber,LOW,0,0,1,Send welcome sample kit within 7 days
+DOC006,MOL04,2025-01,New Prescriber,LOW,1,1,1,Send welcome sample kit within 7 days
+DOC043,MOL04,2025-01,New Prescriber,LOW,24,24,0,Send welcome sample kit within 7 days
+DOC044,MOL04,2025-02,New Prescriber,LOW,26,26,2,Send welcome sample kit within 7 days
+DOC023,MOL04,2025-02,New Prescriber,LOW,8,11,2,Send welcome sample kit within 7 days
+DOC005,MOL04,2025-02,New Prescriber,LOW,13,13,1,Send welcome sample kit within 7 days
+DOC024,MOL04,2025-02,New Prescriber,LOW,3,3,1,Send welcome sample kit within 7 days
+DOC032,MOL04,2025-02,New Prescriber,LOW,14,14,1,Send welcome sample kit within 7 days
+DOC028,MOL04,2025-03,New Prescriber,LOW,72,76,2,Send welcome sample kit within 7 days
+DOC042,MOL04,2025-03,New Prescriber,LOW,5,16,2,Send welcome sample kit within 7 days
+DOC037,MOL04,2025-03,New Prescriber,LOW,10,10,0,Send welcome sample kit within 7 days
+DOC045,MOL04,2025-03,New Prescriber,LOW,14,70,0,Send welcome sample kit within 7 days
+DOC046,MOL04,2025-03,New Prescriber,LOW,9,9,1,Send welcome sample kit within 7 days
+DOC029,MOL04,2025-04,New Prescriber,LOW,47,47,0,Send welcome sample kit within 7 days
+DOC048,MOL04,2025-05,New Prescriber,LOW,13,13,1,Send welcome sample kit within 7 days
+DOC033,MOL04,2025-06,New Prescriber,LOW,8,8,0,Send welcome sample kit within 7 days
+DOC024,MOL05,2025-01,New Prescriber,LOW,3,3,1,Send welcome sample kit within 7 days
+DOC004,MOL05,2025-01,New Prescriber,LOW,40,88,2,Send welcome sample kit within 7 days
+DOC046,MOL05,2025-01,New Prescriber,LOW,9,9,1,Send welcome sample kit within 7 days
+DOC008,MOL05,2025-01,New Prescriber,LOW,0,0,0,Send welcome sample kit within 7 days
+DOC019,MOL05,2025-01,New Prescriber,LOW,31,42,0,Send welcome sample kit within 7 days
+DOC032,MOL05,2025-01,New Prescriber,LOW,14,14,1,Send welcome sample kit within 7 days
+DOC035,MOL05,2025-01,New Prescriber,LOW,61,69,1,Send welcome sample kit within 7 days
+DOC038,MOL05,2025-01,New Prescriber,LOW,96,96,1,Send welcome sample kit within 7 days
+DOC002,MOL05,2025-01,New Prescriber,LOW,6,6,2,Send welcome sample kit within 7 days
+DOC023,MOL05,2025-01,New Prescriber,LOW,8,11,2,Send welcome sample kit within 7 days
+DOC039,MOL05,2025-01,New Prescriber,LOW,2,12,1,Send welcome sample kit within 7 days
+DOC020,MOL05,2025-01,New Prescriber,LOW,9,9,1,Send welcome sample kit within 7 days
+DOC016,MOL05,2025-01,New Prescriber,LOW,21,21,1,Send welcome sample kit within 7 days
+DOC003,MOL05,2025-01,New Prescriber,LOW,0,0,1,Send welcome sample kit within 7 days
+DOC012,MOL05,2025-01,New Prescriber,LOW,13,13,1,Send welcome sample kit within 7 days
+DOC044,MOL05,2025-01,New Prescriber,LOW,26,26,2,Send welcome sample kit within 7 days
+DOC033,MOL05,2025-01,New Prescriber,LOW,8,8,0,Send welcome sample kit within 7 days
+DOC018,MOL05,2025-01,New Prescriber,LOW,20,20,3,Escalate to area manager + CME invite
+DOC045,MOL05,2025-01,New Prescriber,LOW,14,70,0,Send welcome sample kit within 7 days
+DOC017,MOL05,2025-01,New Prescriber,LOW,11,11,1,Send welcome sample kit within 7 days
+DOC029,MOL05,2025-01,New Prescriber,LOW,47,47,0,Send welcome sample kit within 7 days
+DOC013,MOL05,2025-01,New Prescriber,LOW,21,29,2,Send welcome sample kit within 7 days
+DOC005,MOL05,2025-01,New Prescriber,LOW,13,13,1,Send welcome sample kit within 7 days
+DOC036,MOL05,2025-01,New Prescriber,LOW,4,70,2,Send welcome sample kit within 7 days
+DOC047,MOL05,2025-01,New Prescriber,LOW,11,11,0,Send welcome sample kit within 7 days
+DOC007,MOL05,2025-01,New Prescriber,LOW,7,67,1,Send welcome sample kit within 7 days
+DOC048,MOL05,2025-01,New Prescriber,LOW,13,13,1,Send welcome sample kit within 7 days
+DOC037,MOL05,2025-01,New Prescriber,LOW,10,10,0,Send welcome sample kit within 7 days
+DOC027,MOL05,2025-01,New Prescriber,LOW,1,16,1,Send welcome sample kit within 7 days
+DOC030,MOL05,2025-01,New Prescriber,LOW,5,32,1,Send welcome sample kit within 7 days
+DOC021,MOL05,2025-01,New Prescriber,LOW,14,112,2,Send welcome sample kit within 7 days
+DOC022,MOL05,2025-02,New Prescriber,LOW,0,0,1,Send welcome sample kit within 7 days
+DOC043,MOL05,2025-02,New Prescriber,LOW,24,24,0,Send welcome sample kit within 7 days
+DOC006,MOL05,2025-02,New Prescriber,LOW,1,1,1,Send welcome sample kit within 7 days
+DOC034,MOL05,2025-02,New Prescriber,LOW,6,6,1,Send welcome sample kit within 7 days
+DOC015,MOL05,2025-02,New Prescriber,LOW,0,0,1,Send welcome sample kit within 7 days
+DOC014,MOL05,2025-02,New Prescriber,LOW,9,11,0,Send welcome sample kit within 7 days
+DOC031,MOL05,2025-03,New Prescriber,LOW,6,6,1,Send welcome sample kit within 7 days
+DOC010,MOL05,2025-03,New Prescriber,LOW,0,64,0,Send welcome sample kit within 7 days
+DOC049,MOL05,2025-03,New Prescriber,LOW,11,31,1,Send welcome sample kit within 7 days
+DOC025,MOL05,2025-03,New Prescriber,LOW,2,2,1,Send welcome sample kit within 7 days
+DOC011,MOL05,2025-04,New Prescriber,LOW,11,41,0,Send welcome sample kit within 7 days
+DOC042,MOL05,2025-04,New Prescriber,LOW,5,16,2,Send welcome sample kit within 7 days
+DOC050,MOL05,2025-05,New Prescriber,LOW,23,23,2,Send welcome sample kit within 7 days
+DOC028,MOL05,2025-06,New Prescriber,LOW,72,76,2,Send welcome sample kit within 7 days
+DOC009,MOL05,2025-06,New Prescriber,LOW,44,74,2,Send welcome sample kit within 7 days
+DOC026,MOL05,2025-06,New Prescriber,LOW,10,10,1,Send welcome sample kit within 7 days
+DOC005,MOL01,2025-03,Stock Complaint Overlap,HIGH,13,13,1,Resolve stock issue with distributor urgently
+DOC005,MOL01,2025-03,Stock Complaint Overlap,HIGH,13,13,1,Resolve stock issue with distributor urgently
+DOC050,MOL01,2025-04,Stock Complaint Overlap,HIGH,23,23,2,Resolve stock issue with distributor urgently
+DOC050,MOL01,2025-04,Stock Complaint Overlap,HIGH,23,23,2,Resolve stock issue with distributor urgently
+DOC028,MOL01,2025-04,Stock Complaint Overlap,HIGH,72,76,2,Resolve stock issue with distributor urgently
+DOC028,MOL01,2025-04,Stock Complaint Overlap,HIGH,72,76,2,Resolve stock issue with distributor urgently
+DOC032,MOL01,2025-05,Stock Complaint Overlap,HIGH,14,14,1,Resolve stock issue with distributor urgently
+DOC032,MOL01,2025-05,Stock Complaint Overlap,HIGH,14,14,1,Resolve stock issue with distributor urgently
+DOC032,MOL01,2025-05,Stock Complaint Overlap,HIGH,14,14,1,Resolve stock issue with distributor urgently
+DOC032,MOL01,2025-05,Stock Complaint Overlap,HIGH,14,14,1,Resolve stock issue with distributor urgently
+DOC016,MOL01,2025-05,Stock Complaint Overlap,HIGH,21,21,1,Resolve stock issue with distributor urgently
+DOC016,MOL01,2025-05,Stock Complaint Overlap,HIGH,21,21,1,Resolve stock issue with distributor urgently
+DOC016,MOL01,2025-05,Stock Complaint Overlap,HIGH,21,21,1,Resolve stock issue with distributor urgently
+DOC016,MOL01,2025-05,Stock Complaint Overlap,HIGH,21,21,1,Resolve stock issue with distributor urgently
+DOC043,MOL01,2025-05,Stock Complaint Overlap,HIGH,24,24,0,Resolve stock issue with distributor urgently
+DOC043,MOL01,2025-05,Stock Complaint Overlap,HIGH,24,24,0,Resolve stock issue with distributor urgently
+DOC043,MOL01,2025-05,Stock Complaint Overlap,HIGH,24,24,0,Resolve stock issue with distributor urgently
+DOC043,MOL01,2025-05,Stock Complaint Overlap,HIGH,24,24,0,Resolve stock issue with distributor urgently
+DOC029,MOL01,2025-05,Stock Complaint Overlap,HIGH,47,47,0,Resolve stock issue with distributor urgently
+DOC029,MOL01,2025-05,Stock Complaint Overlap,HIGH,47,47,0,Resolve stock issue with distributor urgently
+DOC029,MOL01,2025-05,Stock Complaint Overlap,HIGH,47,47,0,Resolve stock issue with distributor urgently
+DOC029,MOL01,2025-05,Stock Complaint Overlap,HIGH,47,47,0,Resolve stock issue with distributor urgently
+DOC022,MOL01,2025-05,Stock Complaint Overlap,HIGH,0,0,1,Resolve stock issue with distributor urgently
+DOC022,MOL01,2025-05,Stock Complaint Overlap,HIGH,0,0,1,Resolve stock issue with distributor urgently
+DOC022,MOL01,2025-05,Stock Complaint Overlap,HIGH,0,0,1,Resolve stock issue with distributor urgently
+DOC022,MOL01,2025-05,Stock Complaint Overlap,HIGH,0,0,1,Resolve stock issue with distributor urgently
+DOC035,MOL01,2025-05,Stock Complaint Overlap,HIGH,61,69,1,Resolve stock issue with distributor urgently
+DOC035,MOL01,2025-05,Stock Complaint Overlap,HIGH,61,69,1,Resolve stock issue with distributor urgently
+DOC035,MOL01,2025-05,Stock Complaint Overlap,HIGH,61,69,1,Resolve stock issue with distributor urgently
+DOC035,MOL01,2025-05,Stock Complaint Overlap,HIGH,61,69,1,Resolve stock issue with distributor urgently
+DOC017,MOL01,2025-06,Stock Complaint Overlap,HIGH,11,11,1,Resolve stock issue with distributor urgently
+DOC017,MOL01,2025-06,Stock Complaint Overlap,HIGH,11,11,1,Resolve stock issue with distributor urgently
+DOC020,MOL02,2025-03,Stock Complaint Overlap,HIGH,9,9,1,Resolve stock issue with distributor urgently
+DOC020,MOL02,2025-03,Stock Complaint Overlap,HIGH,9,9,1,Resolve stock issue with distributor urgently
+DOC046,MOL02,2025-04,Stock Complaint Overlap,HIGH,9,9,1,Resolve stock issue with distributor urgently
+DOC047,MOL02,2025-04,Stock Complaint Overlap,HIGH,11,11,0,Resolve stock issue with distributor urgently
+DOC007,MOL02,2025-04,Stock Complaint Overlap,HIGH,7,67,1,Resolve stock issue with distributor urgently
+DOC046,MOL02,2025-05,Stock Complaint Overlap,HIGH,9,9,1,Resolve stock issue with distributor urgently
+DOC046,MOL02,2025-05,Stock Complaint Overlap,HIGH,9,9,1,Resolve stock issue with distributor urgently
+DOC046,MOL02,2025-05,Stock Complaint Overlap,HIGH,9,9,1,Resolve stock issue with distributor urgently
+DOC046,MOL02,2025-05,Stock Complaint Overlap,HIGH,9,9,1,Resolve stock issue with distributor urgently
+DOC036,MOL02,2025-05,Stock Complaint Overlap,HIGH,4,70,2,Resolve stock issue with distributor urgently
+DOC036,MOL02,2025-05,Stock Complaint Overlap,HIGH,4,70,2,Resolve stock issue with distributor urgently
+DOC036,MOL02,2025-05,Stock Complaint Overlap,HIGH,4,70,2,Resolve stock issue with distributor urgently
+DOC036,MOL02,2025-05,Stock Complaint Overlap,HIGH,4,70,2,Resolve stock issue with distributor urgently
+DOC039,MOL02,2025-06,Stock Complaint Overlap,HIGH,2,12,1,Resolve stock issue with distributor urgently
+DOC039,MOL02,2025-06,Stock Complaint Overlap,HIGH,2,12,1,Resolve stock issue with distributor urgently
+DOC013,MOL02,2025-06,Stock Complaint Overlap,HIGH,21,29,2,Resolve stock issue with distributor urgently
+DOC013,MOL02,2025-06,Stock Complaint Overlap,HIGH,21,29,2,Resolve stock issue with distributor urgently
+DOC009,MOL02,2025-06,Stock Complaint Overlap,HIGH,44,74,2,Resolve stock issue with distributor urgently
+DOC009,MOL02,2025-06,Stock Complaint Overlap,HIGH,44,74,2,Resolve stock issue with distributor urgently
+DOC016,MOL02,2025-06,Stock Complaint Overlap,HIGH,21,21,1,Resolve stock issue with distributor urgently
+DOC016,MOL02,2025-06,Stock Complaint Overlap,HIGH,21,21,1,Resolve stock issue with distributor urgently
+DOC037,MOL02,2025-06,Stock Complaint Overlap,HIGH,10,10,0,Resolve stock issue with distributor urgently
+DOC037,MOL02,2025-06,Stock Complaint Overlap,HIGH,10,10,0,Resolve stock issue with distributor urgently
+DOC021,MOL03,2025-03,Stock Complaint Overlap,HIGH,14,112,2,Resolve stock issue with distributor urgently
+DOC020,MOL03,2025-03,Stock Complaint Overlap,HIGH,9,9,1,Resolve stock issue with distributor urgently
+DOC037,MOL03,2025-04,Stock Complaint Overlap,HIGH,10,10,0,Resolve stock issue with distributor urgently
+DOC037,MOL03,2025-04,Stock Complaint Overlap,HIGH,10,10,0,Resolve stock issue with distributor urgently
+DOC021,MOL03,2025-04,Stock Complaint Overlap,HIGH,14,112,2,Resolve stock issue with distributor urgently
+DOC021,MOL03,2025-04,Stock Complaint Overlap,HIGH,14,112,2,Resolve stock issue with distributor urgently
+DOC011,MOL03,2025-04,Stock Complaint Overlap,HIGH,11,41,0,Resolve stock issue with distributor urgently
+DOC011,MOL03,2025-04,Stock Complaint Overlap,HIGH,11,41,0,Resolve stock issue with distributor urgently
+DOC028,MOL03,2025-04,Stock Complaint Overlap,HIGH,72,76,2,Resolve stock issue with distributor urgently
+DOC028,MOL03,2025-04,Stock Complaint Overlap,HIGH,72,76,2,Resolve stock issue with distributor urgently
+DOC009,MOL03,2025-05,Stock Complaint Overlap,HIGH,44,74,2,Resolve stock issue with distributor urgently
+DOC009,MOL03,2025-05,Stock Complaint Overlap,HIGH,44,74,2,Resolve stock issue with distributor urgently
+DOC009,MOL03,2025-05,Stock Complaint Overlap,HIGH,44,74,2,Resolve stock issue with distributor urgently
+DOC046,MOL03,2025-05,Stock Complaint Overlap,HIGH,9,9,1,Resolve stock issue with distributor urgently
+DOC046,MOL03,2025-05,Stock Complaint Overlap,HIGH,9,9,1,Resolve stock issue with distributor urgently
+DOC046,MOL03,2025-05,Stock Complaint Overlap,HIGH,9,9,1,Resolve stock issue with distributor urgently
+DOC027,MOL03,2025-05,Stock Complaint Overlap,HIGH,1,16,1,Resolve stock issue with distributor urgently
+DOC027,MOL03,2025-05,Stock Complaint Overlap,HIGH,1,16,1,Resolve stock issue with distributor urgently
+DOC027,MOL03,2025-05,Stock Complaint Overlap,HIGH,1,16,1,Resolve stock issue with distributor urgently
+DOC015,MOL03,2025-05,Stock Complaint Overlap,HIGH,0,0,1,Resolve stock issue with distributor urgently
+DOC015,MOL03,2025-05,Stock Complaint Overlap,HIGH,0,0,1,Resolve stock issue with distributor urgently
+DOC015,MOL03,2025-05,Stock Complaint Overlap,HIGH,0,0,1,Resolve stock issue with distributor urgently
+DOC048,MOL03,2025-05,Stock Complaint Overlap,HIGH,13,13,1,Resolve stock issue with distributor urgently
+DOC048,MOL03,2025-05,Stock Complaint Overlap,HIGH,13,13,1,Resolve stock issue with distributor urgently
+DOC048,MOL03,2025-05,Stock Complaint Overlap,HIGH,13,13,1,Resolve stock issue with distributor urgently
+DOC010,MOL03,2025-05,Stock Complaint Overlap,HIGH,0,64,0,Resolve stock issue with distributor urgently
+DOC010,MOL03,2025-05,Stock Complaint Overlap,HIGH,0,64,0,Resolve stock issue with distributor urgently
+DOC010,MOL03,2025-05,Stock Complaint Overlap,HIGH,0,64,0,Resolve stock issue with distributor urgently
+DOC040,MOL03,2025-06,Stock Complaint Overlap,HIGH,18,18,1,Resolve stock issue with distributor urgently
+DOC029,MOL03,2025-06,Stock Complaint Overlap,HIGH,47,47,0,Resolve stock issue with distributor urgently
+DOC025,MOL04,2025-04,Stock Complaint Overlap,HIGH,2,2,1,Resolve stock issue with distributor urgently
+DOC025,MOL04,2025-04,Stock Complaint Overlap,HIGH,2,2,1,Resolve stock issue with distributor urgently
+DOC038,MOL04,2025-04,Stock Complaint Overlap,HIGH,96,96,1,Resolve stock issue with distributor urgently
+DOC038,MOL04,2025-04,Stock Complaint Overlap,HIGH,96,96,1,Resolve stock issue with distributor urgently
+DOC039,MOL04,2025-04,Stock Complaint Overlap,HIGH,2,12,1,Resolve stock issue with distributor urgently
+DOC039,MOL04,2025-04,Stock Complaint Overlap,HIGH,2,12,1,Resolve stock issue with distributor urgently
+DOC044,MOL04,2025-04,Stock Complaint Overlap,HIGH,26,26,2,Resolve stock issue with distributor urgently
+DOC044,MOL04,2025-04,Stock Complaint Overlap,HIGH,26,26,2,Resolve stock issue with distributor urgently
+DOC049,MOL04,2025-06,Stock Complaint Overlap,HIGH,11,31,1,Resolve stock issue with distributor urgently
+DOC049,MOL04,2025-06,Stock Complaint Overlap,HIGH,11,31,1,Resolve stock issue with distributor urgently
+DOC049,MOL04,2025-06,Stock Complaint Overlap,HIGH,11,31,1,Resolve stock issue with distributor urgently
+DOC049,MOL04,2025-06,Stock Complaint Overlap,HIGH,11,31,1,Resolve stock issue with distributor urgently
+DOC049,MOL04,2025-06,Stock Complaint Overlap,HIGH,11,31,1,Resolve stock issue with distributor urgently
+DOC008,MOL04,2025-06,Stock Complaint Overlap,HIGH,0,0,0,Resolve stock issue with distributor urgently
+DOC008,MOL04,2025-06,Stock Complaint Overlap,HIGH,0,0,0,Resolve stock issue with distributor urgently
+DOC008,MOL04,2025-06,Stock Complaint Overlap,HIGH,0,0,0,Resolve stock issue with distributor urgently
+DOC008,MOL04,2025-06,Stock Complaint Overlap,HIGH,0,0,0,Resolve stock issue with distributor urgently
+DOC008,MOL04,2025-06,Stock Complaint Overlap,HIGH,0,0,0,Resolve stock issue with distributor urgently
+DOC045,MOL04,2025-06,Stock Complaint Overlap,HIGH,14,70,0,Resolve stock issue with distributor urgently
+DOC045,MOL04,2025-06,Stock Complaint Overlap,HIGH,14,70,0,Resolve stock issue with distributor urgently
+DOC045,MOL04,2025-06,Stock Complaint Overlap,HIGH,14,70,0,Resolve stock issue with distributor urgently
+DOC045,MOL04,2025-06,Stock Complaint Overlap,HIGH,14,70,0,Resolve stock issue with distributor urgently
+DOC045,MOL04,2025-06,Stock Complaint Overlap,HIGH,14,70,0,Resolve stock issue with distributor urgently
+DOC037,MOL04,2025-06,Stock Complaint Overlap,HIGH,10,10,0,Resolve stock issue with distributor urgently
+DOC037,MOL04,2025-06,Stock Complaint Overlap,HIGH,10,10,0,Resolve stock issue with distributor urgently
+DOC037,MOL04,2025-06,Stock Complaint Overlap,HIGH,10,10,0,Resolve stock issue with distributor urgently
+DOC037,MOL04,2025-06,Stock Complaint Overlap,HIGH,10,10,0,Resolve stock issue with distributor urgently
+DOC037,MOL04,2025-06,Stock Complaint Overlap,HIGH,10,10,0,Resolve stock issue with distributor urgently
+DOC004,MOL05,2025-03,Stock Complaint Overlap,HIGH,40,88,2,Resolve stock issue with distributor urgently
+DOC004,MOL05,2025-03,Stock Complaint Overlap,HIGH,40,88,2,Resolve stock issue with distributor urgently
+DOC004,MOL05,2025-03,Stock Complaint Overlap,HIGH,40,88,2,Resolve stock issue with distributor urgently
+DOC004,MOL05,2025-03,Stock Complaint Overlap,HIGH,40,88,2,Resolve stock issue with distributor urgently
+DOC024,MOL05,2025-03,Stock Complaint Overlap,HIGH,3,3,1,Resolve stock issue with distributor urgently
+DOC024,MOL05,2025-03,Stock Complaint Overlap,HIGH,3,3,1,Resolve stock issue with distributor urgently
+DOC024,MOL05,2025-03,Stock Complaint Overlap,HIGH,3,3,1,Resolve stock issue with distributor urgently
+DOC024,MOL05,2025-03,Stock Complaint Overlap,HIGH,3,3,1,Resolve stock issue with distributor urgently
+DOC018,MOL05,2025-03,Stock Complaint Overlap,HIGH,20,20,3,Escalate to area manager + CME invite
+DOC018,MOL05,2025-03,Stock Complaint Overlap,HIGH,20,20,3,Escalate to area manager + CME invite
+DOC018,MOL05,2025-03,Stock Complaint Overlap,HIGH,20,20,3,Escalate to area manager + CME invite
+DOC018,MOL05,2025-03,Stock Complaint Overlap,HIGH,20,20,3,Escalate to area manager + CME invite
+DOC012,MOL05,2025-03,Stock Complaint Overlap,HIGH,13,13,1,Resolve stock issue with distributor urgently
+DOC012,MOL05,2025-03,Stock Complaint Overlap,HIGH,13,13,1,Resolve stock issue with distributor urgently
+DOC012,MOL05,2025-03,Stock Complaint Overlap,HIGH,13,13,1,Resolve stock issue with distributor urgently
+DOC012,MOL05,2025-03,Stock Complaint Overlap,HIGH,13,13,1,Resolve stock issue with distributor urgently
+DOC005,MOL05,2025-03,Stock Complaint Overlap,HIGH,13,13,1,Resolve stock issue with distributor urgently
+DOC005,MOL05,2025-03,Stock Complaint Overlap,HIGH,13,13,1,Resolve stock issue with distributor urgently
+DOC005,MOL05,2025-03,Stock Complaint Overlap,HIGH,13,13,1,Resolve stock issue with distributor urgently
+DOC005,MOL05,2025-03,Stock Complaint Overlap,HIGH,13,13,1,Resolve stock issue with distributor urgently
+DOC046,MOL05,2025-03,Stock Complaint Overlap,HIGH,9,9,1,Resolve stock issue with distributor urgently
+DOC046,MOL05,2025-03,Stock Complaint Overlap,HIGH,9,9,1,Resolve stock issue with distributor urgently
+DOC046,MOL05,2025-03,Stock Complaint Overlap,HIGH,9,9,1,Resolve stock issue with distributor urgently
+DOC046,MOL05,2025-03,Stock Complaint Overlap,HIGH,9,9,1,Resolve stock issue with distributor urgently
+DOC045,MOL05,2025-04,Stock Complaint Overlap,HIGH,14,70,0,Resolve stock issue with distributor urgently
+DOC045,MOL05,2025-04,Stock Complaint Overlap,HIGH,14,70,0,Resolve stock issue with distributor urgently
+DOC008,MOL05,2025-06,Stock Complaint Overlap,HIGH,0,0,0,Resolve stock issue with distributor urgently
+DOC008,MOL05,2025-06,Stock Complaint Overlap,HIGH,0,0,0,Resolve stock issue with distributor urgently
+DOC008,MOL05,2025-06,Stock Complaint Overlap,HIGH,0,0,0,Resolve stock issue with distributor urgently
+DOC008,MOL05,2025-06,Stock Complaint Overlap,HIGH,0,0,0,Resolve stock issue with distributor urgently
+DOC048,MOL05,2025-06,Stock Complaint Overlap,HIGH,13,13,1,Resolve stock issue with distributor urgently
+DOC048,MOL05,2025-06,Stock Complaint Overlap,HIGH,13,13,1,Resolve stock issue with distributor urgently
+DOC048,MOL05,2025-06,Stock Complaint Overlap,HIGH,13,13,1,Resolve stock issue with distributor urgently
+DOC048,MOL05,2025-06,Stock Complaint Overlap,HIGH,13,13,1,Resolve stock issue with distributor urgently
+DOC036,MOL05,2025-06,Stock Complaint Overlap,HIGH,4,70,2,Resolve stock issue with distributor urgently
+DOC036,MOL05,2025-06,Stock Complaint Overlap,HIGH,4,70,2,Resolve stock issue with distributor urgently
+DOC036,MOL05,2025-06,Stock Complaint Overlap,HIGH,4,70,2,Resolve stock issue with distributor urgently
+DOC036,MOL05,2025-06,Stock Complaint Overlap,HIGH,4,70,2,Resolve stock issue with distributor urgently

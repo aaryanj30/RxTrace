@@ -1,0 +1,24 @@
+RxTrace Intelligence Hub: Enterprise Credential Registry
+=======================================================
+
+| Role           | User ID (Login) | Dashboard ID (Internal) | Password     |
+|----------------|-----------------|-------------------------|--------------|
+| HQ Admin       | admin           | ADM01                   | admin123     |
+| Sales Rep 01   | rep01           | REP001                  | rep01123     |
+| Sales Rep 02   | rep02           | REP002                  | rep02123     |
+| Sales Rep 03   | rep03           | REP003                  | rep03123     |
+| Sales Rep 04   | rep04           | REP004                  | rep04123     |
+| Sales Rep 05   | rep05           | REP005                  | rep05123     |
+| Sales Rep 06   | rep06           | REP006                  | rep06123     |
+| Sales Rep 07   | rep07           | REP007                  | rep07123     |
+| Sales Rep 08   | rep08           | REP008                  | rep08123     |
+| Sales Rep 09   | rep09           | REP009                  | rep09123     |
+| Sales Rep 10   | rep10           | REP010                  | rep10123     |
+| Doctor 01      | doc01           | DOC001                  | doc01123     |
+| Doctor 02      | doc02           | DOC002                  | doc02123     |
+| Doctor 03      | doc03           | DOC003                  | doc03123     |
+| Doctor 04      | doc04           | DOC004                  | doc04123     |
+| Doctor 05      | doc05           | DOC005                  | doc05123     |
+
+Note: Passwords follow the pattern (User ID + "123"). 
+Directives broadcasted from HQ Admin will appear instantly in the specific Rep's dashboard.

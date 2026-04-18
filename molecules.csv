@@ -1,0 +1,6 @@
+molecule_id,brand_name,therapy_area,MRP_per_unit,margin_percent
+MOL01,Thyronorm,Thyroid,12,20
+MOL02,Duphaston,Women Health,38,25
+MOL03,Udiliv,Liver,22,22
+MOL04,Vertin,Neuro,45,30
+MOL05,Cremalax,Gastro,8,18
